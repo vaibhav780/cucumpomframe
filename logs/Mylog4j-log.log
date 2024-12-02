@@ -1,0 +1,1007 @@
+[INFO ] 2023-04-19 14:54:17.230 - +++++++++++++++++++++++++SCENARIO STARTED+++++++++++++++++++++++++
+[INFO ] 2023-04-19 14:54:17.244 - +++++++++++++++++++++++++Verify Logo and login Page+++++++++++++++++++++++++
+[INFO ] 2023-04-19 14:54:17.244 - Driver initied
+[INFO ] 2023-04-19 14:54:22.684 - Web Browser launched
+[INFO ] 2023-04-19 14:54:22.693 - Verified title
+[INFO ] 2023-04-19 14:54:22.703 - Page Title Verified
+[INFO ] 2023-04-19 14:54:22.707 - Verified Logo
+[INFO ] 2023-04-19 14:54:22.837 - By.xpath: //img Element is present
+[INFO ] 2023-04-19 14:54:22.837 - Loginpage Logo Verified
+[INFO ] 2023-04-19 14:54:22.923 - By.xpath: //*[@id="j_username"] Element is present
+[INFO ] 2023-04-19 14:54:22.923 - Searching for ElementBy.xpath: //*[@id="j_username"]
+[INFO ] 2023-04-19 14:54:23.022 - By.xpath: //*[@id="j_username"]for Element root entered
+[INFO ] 2023-04-19 14:54:23.023 - Username Entered
+[INFO ] 2023-04-19 14:54:23.092 - By.xpath: //*[@name="j_password"] Element is present
+[INFO ] 2023-04-19 14:54:23.092 - Searching for ElementBy.xpath: //*[@name="j_password"]
+[INFO ] 2023-04-19 14:54:23.218 - By.xpath: //*[@name="j_password"]for Element t entered
+[INFO ] 2023-04-19 14:54:23.219 - Username Entered
+[INFO ] 2023-04-19 14:54:23.219 - Password entered
+[INFO ] 2023-04-19 14:54:23.275 - By.xpath: //*[@id="loginBtn"] Element is present
+[INFO ] 2023-04-19 14:54:23.275 - Searching for ElementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-04-19 14:54:23.449 - clicked on elementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-04-19 14:54:23.450 - Clicked on Login
+[INFO ] 2023-04-19 14:54:23.450 - login Button Clicked
+[INFO ] 2023-04-19 14:54:24.377 - Driver Closed
+[INFO ] 2023-04-19 14:54:24.377 - +++++++++++++++++++++++++SCENARIO END+++++++++++++++++++++++++
+[INFO ] 2023-04-19 14:54:26.236 - +++++++++++++++++++++++++SCENARIO STARTED+++++++++++++++++++++++++
+[INFO ] 2023-04-19 14:54:26.237 - +++++++++++++++++++++++++Verify Admin Version+++++++++++++++++++++++++
+[INFO ] 2023-04-19 14:54:26.237 - Driver initied
+[INFO ] 2023-04-19 14:54:31.422 - Web Browser launched
+[INFO ] 2023-04-19 14:54:31.480 - By.xpath: //*[@id="j_username"] Element is present
+[INFO ] 2023-04-19 14:54:31.480 - Searching for ElementBy.xpath: //*[@id="j_username"]
+[INFO ] 2023-04-19 14:54:31.536 - By.xpath: //*[@id="j_username"]for Element root entered
+[INFO ] 2023-04-19 14:54:31.536 - Username Entered
+[INFO ] 2023-04-19 14:54:31.583 - By.xpath: //*[@name="j_password"] Element is present
+[INFO ] 2023-04-19 14:54:31.583 - Searching for ElementBy.xpath: //*[@name="j_password"]
+[INFO ] 2023-04-19 14:54:31.671 - By.xpath: //*[@name="j_password"]for Element t entered
+[INFO ] 2023-04-19 14:54:31.672 - Username Entered
+[INFO ] 2023-04-19 14:54:31.719 - By.xpath: //*[@id="loginBtn"] Element is present
+[INFO ] 2023-04-19 14:54:31.720 - Searching for ElementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-04-19 14:54:31.885 - clicked on elementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-04-19 14:54:31.885 - Clicked on Login
+[INFO ] 2023-04-19 14:54:34.972 - By.xpath: //span[@class='linkbutton'][2]/span Element is present
+[INFO ] 2023-04-19 14:54:34.972 - Searching for ElementBy.xpath: //span[@class='linkbutton'][2]/span
+[INFO ] 2023-04-19 14:54:35.040 - clicked on elementBy.xpath: //span[@class='linkbutton'][2]/span
+[INFO ] 2023-04-19 14:54:40.326 - Clicked on About
+[INFO ] 2023-04-19 14:54:40.378 - By.xpath: //div[@label='infoContainer']/div Element is present
+[INFO ] 2023-04-19 14:54:40.378 - Searching for ElementBy.xpath: //div[@label='infoContainer']/div
+[INFO ] 2023-04-19 14:54:40.424 - By.xpath: //div[@label='infoContainer']/div has text TIBCO ActiveMatrix® Administrator
+Version 3.4.2
+Copyright © 2022 TIBCO Software Inc.All Rights Reserved.
+[INFO ] 2023-04-19 14:54:40.424 - Verified Admin Version
+[INFO ] 2023-04-19 14:54:41.326 - Driver Closed
+[INFO ] 2023-04-19 14:54:41.327 - +++++++++++++++++++++++++SCENARIO END+++++++++++++++++++++++++
+[INFO ] 2023-04-19 14:54:43.303 - +++++++++++++++++++++++++SCENARIO STARTED+++++++++++++++++++++++++
+[INFO ] 2023-04-19 14:54:43.303 - +++++++++++++++++++++++++Verify Enviroment Creation+++++++++++++++++++++++++
+[INFO ] 2023-04-19 14:54:43.303 - Driver initied
+[INFO ] 2023-04-19 14:54:48.512 - Web Browser launched
+[INFO ] 2023-04-19 14:54:48.576 - By.xpath: //*[@id="j_username"] Element is present
+[INFO ] 2023-04-19 14:54:48.576 - Searching for ElementBy.xpath: //*[@id="j_username"]
+[INFO ] 2023-04-19 14:54:48.637 - By.xpath: //*[@id="j_username"]for Element root entered
+[INFO ] 2023-04-19 14:54:48.637 - Username Entered
+[INFO ] 2023-04-19 14:54:48.698 - By.xpath: //*[@name="j_password"] Element is present
+[INFO ] 2023-04-19 14:54:48.698 - Searching for ElementBy.xpath: //*[@name="j_password"]
+[INFO ] 2023-04-19 14:54:48.790 - By.xpath: //*[@name="j_password"]for Element t entered
+[INFO ] 2023-04-19 14:54:48.790 - Username Entered
+[INFO ] 2023-04-19 14:54:48.849 - By.xpath: //*[@id="loginBtn"] Element is present
+[INFO ] 2023-04-19 14:54:48.849 - Searching for ElementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-04-19 14:54:49.001 - clicked on elementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-04-19 14:54:49.001 - Clicked on Login
+[INFO ] 2023-04-19 14:54:52.060 - By.id: _jsx_0_10 Element is present
+[INFO ] 2023-04-19 14:54:52.060 - Searching for ElementBy.id: _jsx_0_10
+[INFO ] 2023-04-19 14:54:52.131 - clicked on elementBy.id: _jsx_0_10
+[INFO ] 2023-04-19 14:54:52.186 - By.id: _jsx_0_11_tibco.admin.environment Element is present
+[INFO ] 2023-04-19 14:54:52.186 - Searching for ElementBy.id: _jsx_0_11_tibco.admin.environment
+[INFO ] 2023-04-19 14:54:52.427 - clicked on elementBy.id: _jsx_0_11_tibco.admin.environment
+[INFO ] 2023-04-19 14:54:52.486 - By.xpath: //*[@title="Create new environment"] Element is present
+[INFO ] 2023-04-19 14:54:52.486 - Searching for ElementBy.xpath: //*[@title="Create new environment"]
+[INFO ] 2023-04-19 14:54:52.581 - clicked on elementBy.xpath: //*[@title="Create new environment"]
+[INFO ] 2023-04-19 14:54:53.401 - By.xpath: /html/body/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div/div[1]/div[2]/div/span/div/div[3]/span/div[7]/span/div/div[2]/span/span[1]/div/div/div[6]/input Element is present
+[INFO ] 2023-04-19 14:54:53.401 - Searching for ElementBy.xpath: /html/body/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div/div[1]/div[2]/div/span/div/div[3]/span/div[7]/span/div/div[2]/span/span[1]/div/div/div[6]/input
+[INFO ] 2023-04-19 14:54:53.524 - By.xpath: /html/body/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div/div[1]/div[2]/div/span/div/div[3]/span/div[7]/span/div/div[2]/span/span[1]/div/div/div[6]/inputfor Element hostMMFLh entered
+[INFO ] 2023-04-19 14:54:53.601 - By.xpath: /html/body/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div/div[1]/div[2]/div/span/div/div[3]/span/div[7]/span/div/div[2]/span/span[2]/div/div/div[6]/textarea Element is present
+[INFO ] 2023-04-19 14:54:53.602 - Searching for ElementBy.xpath: /html/body/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div/div[1]/div[2]/div/span/div/div[3]/span/div[7]/span/div/div[2]/span/span[2]/div/div/div[6]/textarea
+[INFO ] 2023-04-19 14:54:53.701 - By.xpath: /html/body/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div/div[1]/div[2]/div/span/div/div[3]/span/div[7]/span/div/div[2]/span/span[2]/div/div/div[6]/textareafor Element Created By Automation entered
+[INFO ] 2023-04-19 14:54:53.761 - By.xpath: //*[@label="nextBtn"] Element is present
+[INFO ] 2023-04-19 14:54:53.761 - Searching for ElementBy.xpath: //*[@label="nextBtn"]
+[INFO ] 2023-04-19 14:54:53.888 - clicked on elementBy.xpath: //*[@label="nextBtn"]
+[INFO ] 2023-04-19 14:54:56.951 - By.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/input Element is present
+[INFO ] 2023-04-19 14:54:56.952 - Searching for ElementBy.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/input
+[INFO ] 2023-04-19 14:54:57.021 - By.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/inputfor Element cleared text
+[INFO ] 2023-04-19 14:54:57.059 - By.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/input Element is present
+[INFO ] 2023-04-19 14:54:57.059 - Searching for ElementBy.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/input
+[INFO ] 2023-04-19 14:54:57.121 - clicked on elementBy.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/input
+[INFO ] 2023-04-19 14:54:57.189 - By.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/input Element is present
+[INFO ] 2023-04-19 14:54:57.190 - Searching for ElementBy.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/input
+[INFO ] 2023-04-19 14:54:57.303 - By.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/inputfor Element tcp://localhost:7222 entered
+[INFO ] 2023-04-19 14:55:00.378 - By.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.frUserName"]/div/div/div[6]/input Element is present
+[INFO ] 2023-04-19 14:55:00.378 - Searching for ElementBy.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.frUserName"]/div/div/div[6]/input
+[INFO ] 2023-04-19 14:55:00.535 - By.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.frUserName"]/div/div/div[6]/inputfor Element admin entered
+[INFO ] 2023-04-19 14:55:00.599 - By.xpath: //*[@label="tibco.admin.common.messagingbus.testconnection_fld"]/div[6]/span/span Element is present
+[INFO ] 2023-04-19 14:55:00.600 - Searching for ElementBy.xpath: //*[@label="tibco.admin.common.messagingbus.testconnection_fld"]/div[6]/span/span
+[INFO ] 2023-04-19 14:55:00.734 - clicked on elementBy.xpath: //*[@label="tibco.admin.common.messagingbus.testconnection_fld"]/div[6]/span/span
+[INFO ] 2023-04-19 14:55:03.799 - By.xpath: //*[@label="dlgAlertDialog"]/div/div[2]/div/div/div Element is present
+[INFO ] 2023-04-19 14:55:03.799 - Searching for ElementBy.xpath: //*[@label="dlgAlertDialog"]/div/div[2]/div/div/div
+[INFO ] 2023-04-19 14:55:03.825 - By.xpath: //*[@label="dlgAlertDialog"]/div/div[2]/div/div/div has text TIBCO-AMX-ADMIN-020039: Successfully connected to 'tcp://localhost:7222' in non-SSL mode.
+[INFO ] 2023-04-19 14:55:03.885 - By.xpath: //*[@label="dlgAlertDialog"]/div/div[2]/div/div/div[2]/span Element is present
+[INFO ] 2023-04-19 14:55:03.886 - Searching for ElementBy.xpath: //*[@label="dlgAlertDialog"]/div/div[2]/div/div/div[2]/span
+[INFO ] 2023-04-19 14:55:03.958 - clicked on elementBy.xpath: //*[@label="dlgAlertDialog"]/div/div[2]/div/div/div[2]/span
+[INFO ] 2023-04-19 14:55:04.021 - By.xpath: //*[@label="buttonBar"]/span[3] Element is present
+[INFO ] 2023-04-19 14:55:04.021 - Searching for ElementBy.xpath: //*[@label="buttonBar"]/span[3]
+[INFO ] 2023-04-19 14:55:04.156 - clicked on elementBy.xpath: //*[@label="buttonBar"]/span[3]
+[INFO ] 2023-04-19 14:55:05.010 - Driver Closed
+[INFO ] 2023-04-19 14:55:05.010 - +++++++++++++++++++++++++SCENARIO END+++++++++++++++++++++++++
+[INFO ] 2023-04-19 14:55:06.791 - +++++++++++++++++++++++++SCENARIO STARTED+++++++++++++++++++++++++
+[INFO ] 2023-04-19 14:55:06.791 - +++++++++++++++++++++++++Verify Host Creation+++++++++++++++++++++++++
+[INFO ] 2023-04-19 14:55:06.791 - Driver initied
+[INFO ] 2023-04-19 14:55:11.960 - Web Browser launched
+[INFO ] 2023-04-19 14:55:12.014 - By.xpath: //*[@id="j_username"] Element is present
+[INFO ] 2023-04-19 14:55:12.015 - Searching for ElementBy.xpath: //*[@id="j_username"]
+[INFO ] 2023-04-19 14:55:12.081 - By.xpath: //*[@id="j_username"]for Element root entered
+[INFO ] 2023-04-19 14:55:12.081 - Username Entered
+[INFO ] 2023-04-19 14:55:12.137 - By.xpath: //*[@name="j_password"] Element is present
+[INFO ] 2023-04-19 14:55:12.137 - Searching for ElementBy.xpath: //*[@name="j_password"]
+[INFO ] 2023-04-19 14:55:12.221 - By.xpath: //*[@name="j_password"]for Element t entered
+[INFO ] 2023-04-19 14:55:12.221 - Username Entered
+[INFO ] 2023-04-19 14:55:12.278 - By.xpath: //*[@id="loginBtn"] Element is present
+[INFO ] 2023-04-19 14:55:12.278 - Searching for ElementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-04-19 14:55:12.445 - clicked on elementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-04-19 14:55:12.445 - Clicked on Login
+[INFO ] 2023-04-19 14:55:15.512 - By.id: _jsx_0_10 Element is present
+[INFO ] 2023-04-19 14:55:15.512 - Searching for ElementBy.id: _jsx_0_10
+[INFO ] 2023-04-19 14:55:15.575 - clicked on elementBy.id: _jsx_0_10
+[INFO ] 2023-04-19 14:55:15.639 - By.xpath: //*[@jsxid='tibco.admin.host'] Element is present
+[INFO ] 2023-04-19 14:55:15.639 - Searching for ElementBy.xpath: //*[@jsxid='tibco.admin.host']
+[INFO ] 2023-04-19 14:55:15.880 - clicked on elementBy.xpath: //*[@jsxid='tibco.admin.host']
+[INFO ] 2023-04-19 14:55:18.943 - By.xpath: //*[@id="_jsx_0_2v"] Element is present
+[INFO ] 2023-04-19 14:55:18.944 - Searching for ElementBy.xpath: //*[@id="_jsx_0_2v"]
+[INFO ] 2023-04-19 14:55:19.012 - clicked on elementBy.xpath: //*[@id="_jsx_0_2v"]
+[INFO ] 2023-04-19 14:55:20.053 - By.xpath: //*[@id='_jsx_0_4c']//div[6]/input Element is present
+[INFO ] 2023-04-19 14:55:20.053 - Searching for ElementBy.xpath: //*[@id='_jsx_0_4c']//div[6]/input
+[INFO ] 2023-04-19 14:55:20.197 - By.xpath: //*[@id='_jsx_0_4c']//div[6]/inputfor Element hostmNadj entered
+[INFO ] 2023-04-19 14:55:20.253 - By.xpath: //*[@id='_jsx_0_4h']//div[6]/input Element is present
+[INFO ] 2023-04-19 14:55:20.253 - Searching for ElementBy.xpath: //*[@id='_jsx_0_4h']//div[6]/input
+[INFO ] 2023-04-19 14:55:20.357 - By.xpath: //*[@id='_jsx_0_4h']//div[6]/inputfor Element cleared text
+[INFO ] 2023-04-19 14:55:20.404 - By.xpath: //*[@id='_jsx_0_4h']//div[6]/input Element is present
+[INFO ] 2023-04-19 14:55:20.404 - Searching for ElementBy.xpath: //*[@id='_jsx_0_4h']//div[6]/input
+[INFO ] 2023-04-19 14:55:20.536 - By.xpath: //*[@id='_jsx_0_4h']//div[6]/inputfor Element service:jmx:jmxmp://localhost:16643 entered
+[INFO ] 2023-04-19 14:55:25.604 - By.xpath: //*[@label='saveButton'] Element is present
+[INFO ] 2023-04-19 14:55:25.604 - Searching for ElementBy.xpath: //*[@label='saveButton']
+[INFO ] 2023-04-19 14:55:25.757 - clicked on elementBy.xpath: //*[@label='saveButton']
+[INFO ] 2023-04-19 14:55:27.805 - Searching element with Text hostmNadj
+[INFO ] 2023-04-19 14:55:30.873 - By.xpath: //*[@label='tibco.admin.host.ActionMenuButton.install'] Element is present
+[INFO ] 2023-04-19 14:55:30.873 - Searching for ElementBy.xpath: //*[@label='tibco.admin.host.ActionMenuButton.install']
+[INFO ] 2023-04-19 14:55:30.962 - clicked on elementBy.xpath: //*[@label='tibco.admin.host.ActionMenuButton.install']
+[INFO ] 2023-04-19 14:55:41.803 - Current Status: In Progress (Install)
+[INFO ] 2023-04-19 14:55:52.082 - Current Status: In Progress (Install)
+[INFO ] 2023-04-19 14:55:52.082 - Waiting for Expected Status: In Progress (Install) current Status: In Progress (Install)
+[INFO ] 2023-04-19 14:55:52.144 - By.xpath: //*[@label='btnRefresh'] Element is present
+[INFO ] 2023-04-19 14:55:52.145 - Searching for ElementBy.xpath: //*[@label='btnRefresh']
+[INFO ] 2023-04-19 14:55:52.258 - clicked on elementBy.xpath: //*[@label='btnRefresh']
+[INFO ] 2023-04-19 14:56:03.038 - Current Status: Install Successful
+[INFO ] 2023-04-19 14:56:03.076 - Searching element with Text hostmNadj
+[INFO ] 2023-04-19 14:56:05.143 - By.xpath: //*[@label='tibco.admin.host.ActionMenuButton.start'] Element is present
+[INFO ] 2023-04-19 14:56:05.143 - Searching for ElementBy.xpath: //*[@label='tibco.admin.host.ActionMenuButton.start']
+[INFO ] 2023-04-19 14:56:05.228 - clicked on elementBy.xpath: //*[@label='tibco.admin.host.ActionMenuButton.start']
+[INFO ] 2023-04-19 14:56:15.604 - Current Status: In Progress (3)
+[INFO ] 2023-04-19 14:56:18.675 - By.xpath: //*[@label='btnRefresh'] Element is present
+[INFO ] 2023-04-19 14:56:18.675 - Searching for ElementBy.xpath: //*[@label='btnRefresh']
+[INFO ] 2023-04-19 14:56:18.757 - clicked on elementBy.xpath: //*[@label='btnRefresh']
+[INFO ] 2023-04-19 14:56:20.833 - By.xpath: //*[@label='btnRefresh'] Element is present
+[INFO ] 2023-04-19 14:56:20.834 - Searching for ElementBy.xpath: //*[@label='btnRefresh']
+[INFO ] 2023-04-19 14:56:20.924 - clicked on elementBy.xpath: //*[@label='btnRefresh']
+[INFO ] 2023-04-19 14:56:22.986 - By.xpath: //*[@label='btnRefresh'] Element is present
+[INFO ] 2023-04-19 14:56:22.986 - Searching for ElementBy.xpath: //*[@label='btnRefresh']
+[INFO ] 2023-04-19 14:56:23.060 - clicked on elementBy.xpath: //*[@label='btnRefresh']
+[INFO ] 2023-04-19 14:56:26.210 - Driver Closed
+[INFO ] 2023-04-19 14:56:26.210 - +++++++++++++++++++++++++SCENARIO END+++++++++++++++++++++++++
+[INFO ] 2023-04-19 16:07:59.033 - +++++++++++++++++++++++++SCENARIO STARTED+++++++++++++++++++++++++
+[INFO ] 2023-04-19 16:07:59.055 - +++++++++++++++++++++++++Verify Logo and login Page+++++++++++++++++++++++++
+[INFO ] 2023-04-19 16:07:59.059 - Driver initied
+[INFO ] 2023-04-19 16:08:04.620 - Web Browser launched
+[INFO ] 2023-04-19 16:08:04.632 - Verified title
+[INFO ] 2023-04-19 16:08:04.657 - Page Title Verified
+[INFO ] 2023-04-19 16:08:04.661 - Verified Logo
+[INFO ] 2023-04-19 16:08:04.749 - By.xpath: //img Element is present
+[INFO ] 2023-04-19 16:08:04.749 - Loginpage Logo Verified
+[INFO ] 2023-04-19 16:08:04.818 - By.xpath: //*[@id="j_username"] Element is present
+[INFO ] 2023-04-19 16:08:04.820 - Searching for ElementBy.xpath: //*[@id="j_username"]
+[INFO ] 2023-04-19 16:08:04.950 - By.xpath: //*[@id="j_username"]for Element root entered
+[INFO ] 2023-04-19 16:08:04.951 - Username Entered
+[INFO ] 2023-04-19 16:08:05.052 - By.xpath: //*[@name="j_password"] Element is present
+[INFO ] 2023-04-19 16:08:05.052 - Searching for ElementBy.xpath: //*[@name="j_password"]
+[INFO ] 2023-04-19 16:08:05.195 - By.xpath: //*[@name="j_password"]for Element t entered
+[INFO ] 2023-04-19 16:08:05.196 - Username Entered
+[INFO ] 2023-04-19 16:08:05.196 - Password entered
+[INFO ] 2023-04-19 16:08:05.298 - By.xpath: //*[@id="loginBtn"] Element is present
+[INFO ] 2023-04-19 16:08:05.299 - Searching for ElementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-04-19 16:08:06.024 - clicked on elementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-04-19 16:08:06.025 - Clicked on Login
+[INFO ] 2023-04-19 16:08:06.026 - login Button Clicked
+[INFO ] 2023-04-19 16:08:07.838 - Driver Closed
+[INFO ] 2023-04-19 16:08:07.839 - +++++++++++++++++++++++++SCENARIO END+++++++++++++++++++++++++
+[INFO ] 2023-04-19 16:08:10.717 - +++++++++++++++++++++++++SCENARIO STARTED+++++++++++++++++++++++++
+[INFO ] 2023-04-19 16:08:10.718 - +++++++++++++++++++++++++Verify Admin Version+++++++++++++++++++++++++
+[INFO ] 2023-04-19 16:08:10.718 - Driver initied
+[INFO ] 2023-04-19 16:08:16.033 - Web Browser launched
+[INFO ] 2023-04-19 16:08:16.108 - By.xpath: //*[@id="j_username"] Element is present
+[INFO ] 2023-04-19 16:08:16.108 - Searching for ElementBy.xpath: //*[@id="j_username"]
+[INFO ] 2023-04-19 16:08:16.176 - By.xpath: //*[@id="j_username"]for Element root entered
+[INFO ] 2023-04-19 16:08:16.176 - Username Entered
+[INFO ] 2023-04-19 16:08:16.237 - By.xpath: //*[@name="j_password"] Element is present
+[INFO ] 2023-04-19 16:08:16.238 - Searching for ElementBy.xpath: //*[@name="j_password"]
+[INFO ] 2023-04-19 16:08:16.358 - By.xpath: //*[@name="j_password"]for Element t entered
+[INFO ] 2023-04-19 16:08:16.359 - Username Entered
+[INFO ] 2023-04-19 16:08:16.418 - By.xpath: //*[@id="loginBtn"] Element is present
+[INFO ] 2023-04-19 16:08:16.418 - Searching for ElementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-04-19 16:08:16.810 - clicked on elementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-04-19 16:08:16.810 - Clicked on Login
+[INFO ] 2023-04-19 16:08:20.917 - By.xpath: //span[@class='linkbutton'][2]/span Element is present
+[INFO ] 2023-04-19 16:08:20.917 - Searching for ElementBy.xpath: //span[@class='linkbutton'][2]/span
+[INFO ] 2023-04-19 16:08:21.982 - clicked on elementBy.xpath: //span[@class='linkbutton'][2]/span
+[INFO ] 2023-04-19 16:08:27.312 - Clicked on About
+[INFO ] 2023-04-19 16:08:27.386 - By.xpath: //div[@label='infoContainer']/div Element is present
+[INFO ] 2023-04-19 16:08:27.387 - Searching for ElementBy.xpath: //div[@label='infoContainer']/div
+[INFO ] 2023-04-19 16:08:27.438 - By.xpath: //div[@label='infoContainer']/div has text TIBCO ActiveMatrix® Administrator
+Version 3.4.2
+Copyright © 2022 TIBCO Software Inc.All Rights Reserved.
+[INFO ] 2023-04-19 16:08:27.439 - Verified Admin Version
+[INFO ] 2023-04-19 16:08:28.786 - Driver Closed
+[INFO ] 2023-04-19 16:08:28.786 - +++++++++++++++++++++++++SCENARIO END+++++++++++++++++++++++++
+[INFO ] 2023-04-19 16:08:31.519 - +++++++++++++++++++++++++SCENARIO STARTED+++++++++++++++++++++++++
+[INFO ] 2023-04-19 16:08:31.520 - +++++++++++++++++++++++++Verify Enviroment Creation+++++++++++++++++++++++++
+[INFO ] 2023-04-19 16:08:31.520 - Driver initied
+[INFO ] 2023-04-19 16:08:36.791 - Web Browser launched
+[INFO ] 2023-04-19 16:08:36.858 - By.xpath: //*[@id="j_username"] Element is present
+[INFO ] 2023-04-19 16:08:36.859 - Searching for ElementBy.xpath: //*[@id="j_username"]
+[INFO ] 2023-04-19 16:08:36.927 - By.xpath: //*[@id="j_username"]for Element root entered
+[INFO ] 2023-04-19 16:08:36.927 - Username Entered
+[INFO ] 2023-04-19 16:08:36.980 - By.xpath: //*[@name="j_password"] Element is present
+[INFO ] 2023-04-19 16:08:36.980 - Searching for ElementBy.xpath: //*[@name="j_password"]
+[INFO ] 2023-04-19 16:08:37.108 - By.xpath: //*[@name="j_password"]for Element t entered
+[INFO ] 2023-04-19 16:08:37.109 - Username Entered
+[INFO ] 2023-04-19 16:08:37.149 - By.xpath: //*[@id="loginBtn"] Element is present
+[INFO ] 2023-04-19 16:08:37.149 - Searching for ElementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-04-19 16:08:37.541 - clicked on elementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-04-19 16:08:37.541 - Clicked on Login
+[INFO ] 2023-04-19 16:08:42.061 - By.id: _jsx_0_10 Element is present
+[INFO ] 2023-04-19 16:08:42.062 - Searching for ElementBy.id: _jsx_0_10
+[INFO ] 2023-04-19 16:08:42.192 - clicked on elementBy.id: _jsx_0_10
+[INFO ] 2023-04-19 16:08:42.268 - By.id: _jsx_0_11_tibco.admin.environment Element is present
+[INFO ] 2023-04-19 16:08:42.268 - Searching for ElementBy.id: _jsx_0_11_tibco.admin.environment
+[INFO ] 2023-04-19 16:08:42.787 - clicked on elementBy.id: _jsx_0_11_tibco.admin.environment
+[INFO ] 2023-04-19 16:08:42.909 - By.xpath: //*[@title="Create new environment"] Element is present
+[INFO ] 2023-04-19 16:08:42.909 - Searching for ElementBy.xpath: //*[@title="Create new environment"]
+[INFO ] 2023-04-19 16:08:43.035 - clicked on elementBy.xpath: //*[@title="Create new environment"]
+[INFO ] 2023-04-19 16:08:44.086 - By.xpath: /html/body/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div/div[1]/div[2]/div/span/div/div[3]/span/div[7]/span/div/div[2]/span/span[1]/div/div/div[6]/input Element is present
+[INFO ] 2023-04-19 16:08:44.086 - Searching for ElementBy.xpath: /html/body/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div/div[1]/div[2]/div/span/div/div[3]/span/div[7]/span/div/div[2]/span/span[1]/div/div/div[6]/input
+[INFO ] 2023-04-19 16:08:44.248 - By.xpath: /html/body/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div/div[1]/div[2]/div/span/div/div[3]/span/div[7]/span/div/div[2]/span/span[1]/div/div/div[6]/inputfor Element hostLb1gA entered
+[INFO ] 2023-04-19 16:08:44.302 - By.xpath: /html/body/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div/div[1]/div[2]/div/span/div/div[3]/span/div[7]/span/div/div[2]/span/span[2]/div/div/div[6]/textarea Element is present
+[INFO ] 2023-04-19 16:08:44.303 - Searching for ElementBy.xpath: /html/body/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div/div[1]/div[2]/div/span/div/div[3]/span/div[7]/span/div/div[2]/span/span[2]/div/div/div[6]/textarea
+[INFO ] 2023-04-19 16:08:44.497 - By.xpath: /html/body/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div/div[1]/div[2]/div/span/div/div[3]/span/div[7]/span/div/div[2]/span/span[2]/div/div/div[6]/textareafor Element Created By Automation entered
+[INFO ] 2023-04-19 16:08:44.572 - By.xpath: //*[@label="nextBtn"] Element is present
+[INFO ] 2023-04-19 16:08:44.572 - Searching for ElementBy.xpath: //*[@label="nextBtn"]
+[INFO ] 2023-04-19 16:08:44.836 - clicked on elementBy.xpath: //*[@label="nextBtn"]
+[INFO ] 2023-04-19 16:08:47.888 - By.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/input Element is present
+[INFO ] 2023-04-19 16:08:47.889 - Searching for ElementBy.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/input
+[INFO ] 2023-04-19 16:08:47.990 - By.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/inputfor Element cleared text
+[INFO ] 2023-04-19 16:08:48.055 - By.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/input Element is present
+[INFO ] 2023-04-19 16:08:48.055 - Searching for ElementBy.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/input
+[INFO ] 2023-04-19 16:08:48.230 - clicked on elementBy.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/input
+[INFO ] 2023-04-19 16:08:48.308 - By.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/input Element is present
+[INFO ] 2023-04-19 16:08:48.309 - Searching for ElementBy.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/input
+[INFO ] 2023-04-19 16:08:48.443 - By.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/inputfor Element tcp://localhost:7222 entered
+[INFO ] 2023-04-19 16:08:51.521 - By.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.frUserName"]/div/div/div[6]/input Element is present
+[INFO ] 2023-04-19 16:08:51.521 - Searching for ElementBy.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.frUserName"]/div/div/div[6]/input
+[INFO ] 2023-04-19 16:08:51.652 - By.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.frUserName"]/div/div/div[6]/inputfor Element admin entered
+[INFO ] 2023-04-19 16:08:51.714 - By.xpath: //*[@label="tibco.admin.common.messagingbus.testconnection_fld"]/div[6]/span/span Element is present
+[INFO ] 2023-04-19 16:08:51.715 - Searching for ElementBy.xpath: //*[@label="tibco.admin.common.messagingbus.testconnection_fld"]/div[6]/span/span
+[INFO ] 2023-04-19 16:08:51.888 - clicked on elementBy.xpath: //*[@label="tibco.admin.common.messagingbus.testconnection_fld"]/div[6]/span/span
+[INFO ] 2023-04-19 16:08:54.959 - By.xpath: //*[@label="dlgAlertDialog"]/div/div[2]/div/div/div Element is present
+[INFO ] 2023-04-19 16:08:54.959 - Searching for ElementBy.xpath: //*[@label="dlgAlertDialog"]/div/div[2]/div/div/div
+[INFO ] 2023-04-19 16:08:55.013 - By.xpath: //*[@label="dlgAlertDialog"]/div/div[2]/div/div/div has text TIBCO-AMX-ADMIN-020039: Successfully connected to 'tcp://localhost:7222' in non-SSL mode.
+[INFO ] 2023-04-19 16:08:55.064 - By.xpath: //*[@label="dlgAlertDialog"]/div/div[2]/div/div/div[2]/span Element is present
+[INFO ] 2023-04-19 16:08:55.064 - Searching for ElementBy.xpath: //*[@label="dlgAlertDialog"]/div/div[2]/div/div/div[2]/span
+[INFO ] 2023-04-19 16:08:55.149 - clicked on elementBy.xpath: //*[@label="dlgAlertDialog"]/div/div[2]/div/div/div[2]/span
+[INFO ] 2023-04-19 16:08:55.210 - By.xpath: //*[@label="buttonBar"]/span[3] Element is present
+[INFO ] 2023-04-19 16:08:55.210 - Searching for ElementBy.xpath: //*[@label="buttonBar"]/span[3]
+[INFO ] 2023-04-19 16:08:55.395 - clicked on elementBy.xpath: //*[@label="buttonBar"]/span[3]
+[INFO ] 2023-04-19 16:08:56.644 - Driver Closed
+[INFO ] 2023-04-19 16:08:56.645 - +++++++++++++++++++++++++SCENARIO END+++++++++++++++++++++++++
+[INFO ] 2023-04-19 16:08:59.795 - +++++++++++++++++++++++++SCENARIO STARTED+++++++++++++++++++++++++
+[INFO ] 2023-04-19 16:08:59.795 - +++++++++++++++++++++++++Verify Host Creation+++++++++++++++++++++++++
+[INFO ] 2023-04-19 16:08:59.795 - Driver initied
+[INFO ] 2023-04-19 16:09:05.069 - Web Browser launched
+[INFO ] 2023-04-19 16:09:05.154 - By.xpath: //*[@id="j_username"] Element is present
+[INFO ] 2023-04-19 16:09:05.154 - Searching for ElementBy.xpath: //*[@id="j_username"]
+[INFO ] 2023-04-19 16:09:05.245 - By.xpath: //*[@id="j_username"]for Element root entered
+[INFO ] 2023-04-19 16:09:05.245 - Username Entered
+[INFO ] 2023-04-19 16:09:05.326 - By.xpath: //*[@name="j_password"] Element is present
+[INFO ] 2023-04-19 16:09:05.327 - Searching for ElementBy.xpath: //*[@name="j_password"]
+[INFO ] 2023-04-19 16:09:05.402 - By.xpath: //*[@name="j_password"]for Element t entered
+[INFO ] 2023-04-19 16:09:05.403 - Username Entered
+[INFO ] 2023-04-19 16:09:05.443 - By.xpath: //*[@id="loginBtn"] Element is present
+[INFO ] 2023-04-19 16:09:05.444 - Searching for ElementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-04-19 16:09:05.693 - clicked on elementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-04-19 16:09:05.694 - Clicked on Login
+[INFO ] 2023-04-19 16:09:10.068 - By.id: _jsx_0_10 Element is present
+[INFO ] 2023-04-19 16:09:10.069 - Searching for ElementBy.id: _jsx_0_10
+[INFO ] 2023-04-19 16:09:10.172 - clicked on elementBy.id: _jsx_0_10
+[INFO ] 2023-04-19 16:09:10.223 - By.xpath: //*[@jsxid='tibco.admin.host'] Element is present
+[INFO ] 2023-04-19 16:09:10.224 - Searching for ElementBy.xpath: //*[@jsxid='tibco.admin.host']
+[INFO ] 2023-04-19 16:09:10.689 - clicked on elementBy.xpath: //*[@jsxid='tibco.admin.host']
+[INFO ] 2023-04-19 16:09:13.785 - By.xpath: //*[@id="_jsx_0_2v"] Element is present
+[INFO ] 2023-04-19 16:09:13.785 - Searching for ElementBy.xpath: //*[@id="_jsx_0_2v"]
+[INFO ] 2023-04-19 16:09:13.994 - clicked on elementBy.xpath: //*[@id="_jsx_0_2v"]
+[INFO ] 2023-04-19 16:09:15.789 - By.xpath: //*[@id='_jsx_0_4c']//div[6]/input Element is present
+[INFO ] 2023-04-19 16:09:15.790 - Searching for ElementBy.xpath: //*[@id='_jsx_0_4c']//div[6]/input
+[INFO ] 2023-04-19 16:09:16.101 - By.xpath: //*[@id='_jsx_0_4c']//div[6]/inputfor Element hostJkzRj entered
+[INFO ] 2023-04-19 16:09:16.175 - By.xpath: //*[@id='_jsx_0_4h']//div[6]/input Element is present
+[INFO ] 2023-04-19 16:09:16.176 - Searching for ElementBy.xpath: //*[@id='_jsx_0_4h']//div[6]/input
+[INFO ] 2023-04-19 16:09:16.297 - By.xpath: //*[@id='_jsx_0_4h']//div[6]/inputfor Element cleared text
+[INFO ] 2023-04-19 16:09:16.371 - By.xpath: //*[@id='_jsx_0_4h']//div[6]/input Element is present
+[INFO ] 2023-04-19 16:09:16.371 - Searching for ElementBy.xpath: //*[@id='_jsx_0_4h']//div[6]/input
+[INFO ] 2023-04-19 16:09:16.653 - By.xpath: //*[@id='_jsx_0_4h']//div[6]/inputfor Element service:jmx:jmxmp://localhost:16662 entered
+[INFO ] 2023-04-19 16:09:21.706 - By.xpath: //*[@label='saveButton'] Element is present
+[INFO ] 2023-04-19 16:09:21.706 - Searching for ElementBy.xpath: //*[@label='saveButton']
+[INFO ] 2023-04-19 16:09:21.922 - clicked on elementBy.xpath: //*[@label='saveButton']
+[INFO ] 2023-04-19 16:09:23.950 - Searching element with Text hostJkzRj
+[INFO ] 2023-04-19 16:09:27.014 - By.xpath: //*[@label='tibco.admin.host.ActionMenuButton.install'] Element is present
+[INFO ] 2023-04-19 16:09:27.015 - Searching for ElementBy.xpath: //*[@label='tibco.admin.host.ActionMenuButton.install']
+[INFO ] 2023-04-19 16:09:27.284 - clicked on elementBy.xpath: //*[@label='tibco.admin.host.ActionMenuButton.install']
+[INFO ] 2023-04-19 16:09:38.689 - Current Status: In Progress (Install)
+[INFO ] 2023-04-19 16:09:49.109 - Current Status: In Progress (Install)
+[INFO ] 2023-04-19 16:09:49.109 - Waiting for Expected Status: In Progress (Install) current Status: In Progress (Install)
+[INFO ] 2023-04-19 16:09:49.181 - By.xpath: //*[@label='btnRefresh'] Element is present
+[INFO ] 2023-04-19 16:09:49.182 - Searching for ElementBy.xpath: //*[@label='btnRefresh']
+[INFO ] 2023-04-19 16:09:49.375 - clicked on elementBy.xpath: //*[@label='btnRefresh']
+[INFO ] 2023-04-19 16:10:00.378 - Current Status: Install Successful
+[INFO ] 2023-04-19 16:10:00.399 - Searching element with Text hostJkzRj
+[INFO ] 2023-04-19 16:10:02.448 - By.xpath: //*[@label='tibco.admin.host.ActionMenuButton.start'] Element is present
+[INFO ] 2023-04-19 16:10:02.448 - Searching for ElementBy.xpath: //*[@label='tibco.admin.host.ActionMenuButton.start']
+[INFO ] 2023-04-19 16:10:02.596 - clicked on elementBy.xpath: //*[@label='tibco.admin.host.ActionMenuButton.start']
+[INFO ] 2023-04-19 16:10:13.180 - Current Status: In Progress (3)
+[INFO ] 2023-04-19 16:10:16.239 - By.xpath: //*[@label='btnRefresh'] Element is present
+[INFO ] 2023-04-19 16:10:16.239 - Searching for ElementBy.xpath: //*[@label='btnRefresh']
+[INFO ] 2023-04-19 16:10:16.398 - clicked on elementBy.xpath: //*[@label='btnRefresh']
+[INFO ] 2023-04-19 16:10:18.451 - By.xpath: //*[@label='btnRefresh'] Element is present
+[INFO ] 2023-04-19 16:10:18.451 - Searching for ElementBy.xpath: //*[@label='btnRefresh']
+[INFO ] 2023-04-19 16:10:18.582 - clicked on elementBy.xpath: //*[@label='btnRefresh']
+[INFO ] 2023-04-19 16:10:20.642 - By.xpath: //*[@label='btnRefresh'] Element is present
+[INFO ] 2023-04-19 16:10:20.642 - Searching for ElementBy.xpath: //*[@label='btnRefresh']
+[INFO ] 2023-04-19 16:10:20.802 - clicked on elementBy.xpath: //*[@label='btnRefresh']
+[INFO ] 2023-04-19 16:10:24.934 - Driver Closed
+[INFO ] 2023-04-19 16:10:24.934 - +++++++++++++++++++++++++SCENARIO END+++++++++++++++++++++++++
+[INFO ] 2023-04-19 16:13:59.809 - +++++++++++++++++++++++++SCENARIO STARTED+++++++++++++++++++++++++
+[INFO ] 2023-04-19 16:13:59.843 - +++++++++++++++++++++++++Verify Admin Version+++++++++++++++++++++++++
+[INFO ] 2023-04-19 16:13:59.843 - Driver initied
+[INFO ] 2023-04-19 16:14:05.552 - Web Browser launched
+[INFO ] 2023-04-19 16:14:05.724 - By.xpath: //*[@id="j_username"] Element is present
+[INFO ] 2023-04-19 16:14:05.724 - Searching for ElementBy.xpath: //*[@id="j_username"]
+[INFO ] 2023-04-19 16:14:05.816 - By.xpath: //*[@id="j_username"]for Element root entered
+[INFO ] 2023-04-19 16:14:05.817 - Username Entered
+[INFO ] 2023-04-19 16:14:05.890 - By.xpath: //*[@name="j_password"] Element is present
+[INFO ] 2023-04-19 16:14:05.891 - Searching for ElementBy.xpath: //*[@name="j_password"]
+[INFO ] 2023-04-19 16:14:05.992 - By.xpath: //*[@name="j_password"]for Element t entered
+[INFO ] 2023-04-19 16:14:05.993 - Username Entered
+[INFO ] 2023-04-19 16:14:06.069 - By.xpath: //*[@id="loginBtn"] Element is present
+[INFO ] 2023-04-19 16:14:06.070 - Searching for ElementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-04-19 16:14:06.384 - clicked on elementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-04-19 16:14:06.385 - Clicked on Login
+[INFO ] 2023-04-19 16:14:10.190 - By.xpath: //span[@class='linkbutton'][2]/span Element is present
+[INFO ] 2023-04-19 16:14:10.190 - Searching for ElementBy.xpath: //span[@class='linkbutton'][2]/span
+[INFO ] 2023-04-19 16:14:10.489 - clicked on elementBy.xpath: //span[@class='linkbutton'][2]/span
+[INFO ] 2023-04-19 16:14:15.813 - Clicked on About
+[INFO ] 2023-04-19 16:14:15.907 - By.xpath: //div[@label='infoContainer']/div Element is present
+[INFO ] 2023-04-19 16:14:15.907 - Searching for ElementBy.xpath: //div[@label='infoContainer']/div
+[INFO ] 2023-04-19 16:14:15.989 - By.xpath: //div[@label='infoContainer']/div has text TIBCO ActiveMatrix® Administrator
+Version 3.4.2
+Copyright © 2022 TIBCO Software Inc.All Rights Reserved.
+[INFO ] 2023-04-19 16:14:15.990 - Verified Admin Version
+[INFO ] 2023-04-19 16:14:17.900 - Driver Closed
+[INFO ] 2023-04-19 16:14:17.900 - +++++++++++++++++++++++++SCENARIO END+++++++++++++++++++++++++
+[INFO ] 2023-08-22 15:55:57.206 - +++++++++++++++++++++++++SCENARIO STARTED+++++++++++++++++++++++++
+[INFO ] 2023-08-22 15:55:57.225 - +++++++++++++++++++++++++Verify Admin Version+++++++++++++++++++++++++
+[INFO ] 2023-08-22 15:55:57.225 - Driver initied
+[INFO ] 2023-08-22 15:56:02.655 - Web Browser launched
+[INFO ] 2023-08-22 15:56:02.750 - By.xpath: //*[@id="j_username"] Element is present
+[INFO ] 2023-08-22 15:56:02.751 - Searching for ElementBy.xpath: //*[@id="j_username"]
+[INFO ] 2023-08-22 15:56:02.818 - By.xpath: //*[@id="j_username"]for Element root entered
+[INFO ] 2023-08-22 15:56:02.818 - Username Entered
+[INFO ] 2023-08-22 15:56:02.874 - By.xpath: //*[@name="j_password"] Element is present
+[INFO ] 2023-08-22 15:56:02.874 - Searching for ElementBy.xpath: //*[@name="j_password"]
+[INFO ] 2023-08-22 15:56:02.977 - By.xpath: //*[@name="j_password"]for Element t entered
+[INFO ] 2023-08-22 15:56:02.977 - Username Entered
+[INFO ] 2023-08-22 15:56:03.041 - By.xpath: //*[@id="loginBtn"] Element is present
+[INFO ] 2023-08-22 15:56:03.041 - Searching for ElementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-08-22 15:56:03.278 - clicked on elementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-08-22 15:56:03.278 - Clicked on Login
+[INFO ] 2023-08-22 15:56:39.109 - +++++++++++++++++++++++++SCENARIO STARTED+++++++++++++++++++++++++
+[INFO ] 2023-08-22 15:56:39.110 - +++++++++++++++++++++++++Verify Enviroment Creation+++++++++++++++++++++++++
+[INFO ] 2023-08-22 15:56:39.110 - Driver initied
+[INFO ] 2023-08-22 15:56:44.346 - Web Browser launched
+[INFO ] 2023-08-22 15:56:44.415 - By.xpath: //*[@id="j_username"] Element is present
+[INFO ] 2023-08-22 15:56:44.415 - Searching for ElementBy.xpath: //*[@id="j_username"]
+[INFO ] 2023-08-22 15:56:44.487 - By.xpath: //*[@id="j_username"]for Element root entered
+[INFO ] 2023-08-22 15:56:44.488 - Username Entered
+[INFO ] 2023-08-22 15:56:44.559 - By.xpath: //*[@name="j_password"] Element is present
+[INFO ] 2023-08-22 15:56:44.561 - Searching for ElementBy.xpath: //*[@name="j_password"]
+[INFO ] 2023-08-22 15:56:44.664 - By.xpath: //*[@name="j_password"]for Element t entered
+[INFO ] 2023-08-22 15:56:44.665 - Username Entered
+[INFO ] 2023-08-22 15:56:44.715 - By.xpath: //*[@id="loginBtn"] Element is present
+[INFO ] 2023-08-22 15:56:44.716 - Searching for ElementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-08-22 15:56:44.938 - clicked on elementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-08-22 15:56:44.938 - Clicked on Login
+[INFO ] 2023-08-22 15:56:48.011 - By.id: _jsx_0_10 Element is present
+[INFO ] 2023-08-22 15:56:48.011 - Searching for ElementBy.id: _jsx_0_10
+[INFO ] 2023-08-22 15:56:48.110 - clicked on elementBy.id: _jsx_0_10
+[INFO ] 2023-08-22 15:56:48.166 - By.id: _jsx_0_11_tibco.admin.environment Element is present
+[INFO ] 2023-08-22 15:56:48.166 - Searching for ElementBy.id: _jsx_0_11_tibco.admin.environment
+[INFO ] 2023-08-22 15:56:48.535 - clicked on elementBy.id: _jsx_0_11_tibco.admin.environment
+[INFO ] 2023-08-22 15:56:48.598 - By.xpath: //*[@title="Create new environment"] Element is present
+[INFO ] 2023-08-22 15:56:48.598 - Searching for ElementBy.xpath: //*[@title="Create new environment"]
+[INFO ] 2023-08-22 15:56:48.689 - clicked on elementBy.xpath: //*[@title="Create new environment"]
+[INFO ] 2023-08-22 15:56:49.323 - By.xpath: /html/body/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div/div[1]/div[2]/div/span/div/div[3]/span/div[7]/span/div/div[2]/span/span[1]/div/div/div[6]/input Element is present
+[INFO ] 2023-08-22 15:56:49.323 - Searching for ElementBy.xpath: /html/body/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div/div[1]/div[2]/div/span/div/div[3]/span/div[7]/span/div/div[2]/span/span[1]/div/div/div[6]/input
+[INFO ] 2023-08-22 15:56:49.488 - By.xpath: /html/body/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div/div[1]/div[2]/div/span/div/div[3]/span/div[7]/span/div/div[2]/span/span[1]/div/div/div[6]/inputfor Element hostsdSdP entered
+[INFO ] 2023-08-22 15:56:49.553 - By.xpath: /html/body/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div/div[1]/div[2]/div/span/div/div[3]/span/div[7]/span/div/div[2]/span/span[2]/div/div/div[6]/textarea Element is present
+[INFO ] 2023-08-22 15:56:49.553 - Searching for ElementBy.xpath: /html/body/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div/div[1]/div[2]/div/span/div/div[3]/span/div[7]/span/div/div[2]/span/span[2]/div/div/div[6]/textarea
+[INFO ] 2023-08-22 15:56:49.704 - By.xpath: /html/body/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div/div[1]/div[2]/div/span/div/div[3]/span/div[7]/span/div/div[2]/span/span[2]/div/div/div[6]/textareafor Element Created By Automation entered
+[INFO ] 2023-08-22 15:56:49.771 - By.xpath: //*[@label="nextBtn"] Element is present
+[INFO ] 2023-08-22 15:56:49.772 - Searching for ElementBy.xpath: //*[@label="nextBtn"]
+[INFO ] 2023-08-22 15:56:49.913 - clicked on elementBy.xpath: //*[@label="nextBtn"]
+[INFO ] 2023-08-22 15:56:52.986 - By.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/input Element is present
+[INFO ] 2023-08-22 15:56:52.987 - Searching for ElementBy.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/input
+[INFO ] 2023-08-22 15:56:53.128 - By.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/inputfor Element cleared text
+[INFO ] 2023-08-22 15:56:53.195 - By.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/input Element is present
+[INFO ] 2023-08-22 15:56:53.195 - Searching for ElementBy.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/input
+[INFO ] 2023-08-22 15:56:53.440 - clicked on elementBy.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/input
+[INFO ] 2023-08-22 15:56:53.610 - By.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/input Element is present
+[INFO ] 2023-08-22 15:56:53.610 - Searching for ElementBy.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/input
+[INFO ] 2023-08-22 15:56:53.801 - By.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/inputfor Element tcp://localhost:7222 entered
+[INFO ] 2023-08-22 15:56:56.901 - By.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.frUserName"]/div/div/div[6]/input Element is present
+[INFO ] 2023-08-22 15:56:56.901 - Searching for ElementBy.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.frUserName"]/div/div/div[6]/input
+[INFO ] 2023-08-22 15:56:57.029 - By.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.frUserName"]/div/div/div[6]/inputfor Element admin entered
+[INFO ] 2023-08-22 15:56:57.092 - By.xpath: //*[@label="tibco.admin.common.messagingbus.testconnection_fld"]/div[6]/span/span Element is present
+[INFO ] 2023-08-22 15:56:57.092 - Searching for ElementBy.xpath: //*[@label="tibco.admin.common.messagingbus.testconnection_fld"]/div[6]/span/span
+[INFO ] 2023-08-22 15:56:57.274 - clicked on elementBy.xpath: //*[@label="tibco.admin.common.messagingbus.testconnection_fld"]/div[6]/span/span
+[INFO ] 2023-08-22 15:57:00.357 - By.xpath: //*[@label="dlgAlertDialog"]/div/div[2]/div/div/div Element is present
+[INFO ] 2023-08-22 15:57:00.357 - Searching for ElementBy.xpath: //*[@label="dlgAlertDialog"]/div/div[2]/div/div/div
+[INFO ] 2023-08-22 15:57:00.415 - By.xpath: //*[@label="dlgAlertDialog"]/div/div[2]/div/div/div has text TIBCO-AMX-ADMIN-020039: Successfully connected to 'tcp://localhost:7222' in non-SSL mode.
+[INFO ] 2023-08-22 15:57:00.477 - By.xpath: //*[@label="dlgAlertDialog"]/div/div[2]/div/div/div[2]/span Element is present
+[INFO ] 2023-08-22 15:57:00.477 - Searching for ElementBy.xpath: //*[@label="dlgAlertDialog"]/div/div[2]/div/div/div[2]/span
+[INFO ] 2023-08-22 15:57:00.602 - clicked on elementBy.xpath: //*[@label="dlgAlertDialog"]/div/div[2]/div/div/div[2]/span
+[INFO ] 2023-08-22 15:57:00.681 - By.xpath: //*[@label="buttonBar"]/span[3] Element is present
+[INFO ] 2023-08-22 15:57:00.681 - Searching for ElementBy.xpath: //*[@label="buttonBar"]/span[3]
+[INFO ] 2023-08-22 15:57:00.897 - clicked on elementBy.xpath: //*[@label="buttonBar"]/span[3]
+[INFO ] 2023-08-22 15:57:01.834 - Driver Closed
+[INFO ] 2023-08-22 15:57:01.834 - +++++++++++++++++++++++++SCENARIO END+++++++++++++++++++++++++
+[INFO ] 2023-08-22 15:57:04.248 - +++++++++++++++++++++++++SCENARIO STARTED+++++++++++++++++++++++++
+[INFO ] 2023-08-22 15:57:04.249 - +++++++++++++++++++++++++Verify Host Creation+++++++++++++++++++++++++
+[INFO ] 2023-08-22 15:57:04.249 - Driver initied
+[INFO ] 2023-08-22 15:57:09.462 - Web Browser launched
+[INFO ] 2023-08-22 15:57:09.532 - By.xpath: //*[@id="j_username"] Element is present
+[INFO ] 2023-08-22 15:57:09.532 - Searching for ElementBy.xpath: //*[@id="j_username"]
+[INFO ] 2023-08-22 15:57:09.611 - By.xpath: //*[@id="j_username"]for Element root entered
+[INFO ] 2023-08-22 15:57:09.611 - Username Entered
+[INFO ] 2023-08-22 15:57:09.669 - By.xpath: //*[@name="j_password"] Element is present
+[INFO ] 2023-08-22 15:57:09.669 - Searching for ElementBy.xpath: //*[@name="j_password"]
+[INFO ] 2023-08-22 15:57:09.771 - By.xpath: //*[@name="j_password"]for Element t entered
+[INFO ] 2023-08-22 15:57:09.771 - Username Entered
+[INFO ] 2023-08-22 15:57:09.833 - By.xpath: //*[@id="loginBtn"] Element is present
+[INFO ] 2023-08-22 15:57:09.833 - Searching for ElementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-08-22 15:57:10.108 - clicked on elementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-08-22 15:57:10.108 - Clicked on Login
+[INFO ] 2023-08-22 15:57:13.181 - By.id: _jsx_0_10 Element is present
+[INFO ] 2023-08-22 15:57:13.181 - Searching for ElementBy.id: _jsx_0_10
+[INFO ] 2023-08-22 15:57:13.331 - clicked on elementBy.id: _jsx_0_10
+[INFO ] 2023-08-22 15:57:13.414 - By.xpath: //*[@jsxid='tibco.admin.host'] Element is present
+[INFO ] 2023-08-22 15:57:13.415 - Searching for ElementBy.xpath: //*[@jsxid='tibco.admin.host']
+[INFO ] 2023-08-22 15:57:13.866 - clicked on elementBy.xpath: //*[@jsxid='tibco.admin.host']
+[INFO ] 2023-08-22 15:57:16.942 - By.xpath: //*[@id="_jsx_0_2v"] Element is present
+[INFO ] 2023-08-22 15:57:16.943 - Searching for ElementBy.xpath: //*[@id="_jsx_0_2v"]
+[INFO ] 2023-08-22 15:57:17.064 - clicked on elementBy.xpath: //*[@id="_jsx_0_2v"]
+[INFO ] 2023-08-22 15:57:18.602 - By.xpath: //*[@id='_jsx_0_4c']//div[6]/input Element is present
+[INFO ] 2023-08-22 15:57:18.602 - Searching for ElementBy.xpath: //*[@id='_jsx_0_4c']//div[6]/input
+[INFO ] 2023-08-22 15:57:18.891 - By.xpath: //*[@id='_jsx_0_4c']//div[6]/inputfor Element hostd3ZTn entered
+[INFO ] 2023-08-22 15:57:19.032 - By.xpath: //*[@id='_jsx_0_4h']//div[6]/input Element is present
+[INFO ] 2023-08-22 15:57:19.032 - Searching for ElementBy.xpath: //*[@id='_jsx_0_4h']//div[6]/input
+[INFO ] 2023-08-22 15:57:19.195 - By.xpath: //*[@id='_jsx_0_4h']//div[6]/inputfor Element cleared text
+[INFO ] 2023-08-22 15:57:19.284 - By.xpath: //*[@id='_jsx_0_4h']//div[6]/input Element is present
+[INFO ] 2023-08-22 15:57:19.285 - Searching for ElementBy.xpath: //*[@id='_jsx_0_4h']//div[6]/input
+[INFO ] 2023-08-22 15:57:19.534 - By.xpath: //*[@id='_jsx_0_4h']//div[6]/inputfor Element service:jmx:jmxmp://localhost:16619 entered
+[INFO ] 2023-08-22 15:57:24.619 - By.xpath: //*[@label='saveButton'] Element is present
+[INFO ] 2023-08-22 15:57:24.619 - Searching for ElementBy.xpath: //*[@label='saveButton']
+[INFO ] 2023-08-22 15:57:24.898 - clicked on elementBy.xpath: //*[@label='saveButton']
+[INFO ] 2023-08-22 15:57:26.950 - Searching element with Text hostd3ZTn
+[INFO ] 2023-08-22 15:57:30.037 - By.xpath: //*[@label='tibco.admin.host.ActionMenuButton.install'] Element is present
+[INFO ] 2023-08-22 15:57:30.037 - Searching for ElementBy.xpath: //*[@label='tibco.admin.host.ActionMenuButton.install']
+[INFO ] 2023-08-22 15:57:30.188 - clicked on elementBy.xpath: //*[@label='tibco.admin.host.ActionMenuButton.install']
+[INFO ] 2023-08-22 15:57:32.067 - Driver Closed
+[INFO ] 2023-08-22 15:57:32.067 - +++++++++++++++++++++++++SCENARIO END+++++++++++++++++++++++++
+[INFO ] 2023-08-22 17:49:00.670 - +++++++++++++++++++++++++SCENARIO STARTED+++++++++++++++++++++++++
+[INFO ] 2023-08-22 17:49:00.692 - +++++++++++++++++++++++++Verify Admin Version+++++++++++++++++++++++++
+[INFO ] 2023-08-22 17:49:00.692 - Driver initied
+[INFO ] 2023-08-22 17:49:06.101 - Web Browser launched
+[INFO ] 2023-08-22 17:49:06.200 - By.xpath: //*[@id="j_username"] Element is present
+[INFO ] 2023-08-22 17:49:06.200 - Searching for ElementBy.xpath: //*[@id="j_username"]
+[INFO ] 2023-08-22 17:49:06.279 - By.xpath: //*[@id="j_username"]for Element root entered
+[INFO ] 2023-08-22 17:49:06.280 - Username Entered
+[INFO ] 2023-08-22 17:49:06.336 - By.xpath: //*[@name="j_password"] Element is present
+[INFO ] 2023-08-22 17:49:06.336 - Searching for ElementBy.xpath: //*[@name="j_password"]
+[INFO ] 2023-08-22 17:49:06.421 - By.xpath: //*[@name="j_password"]for Element t entered
+[INFO ] 2023-08-22 17:49:06.421 - Username Entered
+[INFO ] 2023-08-22 17:49:06.473 - By.xpath: //*[@id="loginBtn"] Element is present
+[INFO ] 2023-08-22 17:49:06.474 - Searching for ElementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-08-22 17:49:06.716 - clicked on elementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-08-22 17:49:06.716 - Clicked on Login
+[INFO ] 2023-08-22 17:49:09.857 - By.xpath: //span[@class='linkbutton'][2]/span Element is present
+[INFO ] 2023-08-22 17:49:09.857 - Searching for ElementBy.xpath: //span[@class='linkbutton'][2]/span
+[INFO ] 2023-08-22 17:49:09.967 - clicked on elementBy.xpath: //span[@class='linkbutton'][2]/span
+[INFO ] 2023-08-22 17:49:15.205 - Clicked on About
+[INFO ] 2023-08-22 17:49:15.313 - By.xpath: //div[@label='infoContainer']/div Element is present
+[INFO ] 2023-08-22 17:49:15.313 - Searching for ElementBy.xpath: //div[@label='infoContainer']/div
+[INFO ] 2023-08-22 17:49:15.364 - By.xpath: //div[@label='infoContainer']/div has text TIBCO ActiveMatrix® Administrator
+Version 3.4.2
+Copyright © 2023 TIBCO Software Inc.All Rights Reserved.
+[INFO ] 2023-08-22 17:49:15.364 - Verified Admin Version
+[INFO ] 2023-08-22 17:49:16.182 - Driver Closed
+[INFO ] 2023-08-22 17:49:16.182 - +++++++++++++++++++++++++SCENARIO END+++++++++++++++++++++++++
+[INFO ] 2023-08-22 17:49:17.942 - +++++++++++++++++++++++++SCENARIO STARTED+++++++++++++++++++++++++
+[INFO ] 2023-08-22 17:49:17.942 - +++++++++++++++++++++++++Verify Enviroment Creation+++++++++++++++++++++++++
+[INFO ] 2023-08-22 17:49:17.942 - Driver initied
+[INFO ] 2023-08-22 17:49:23.147 - Web Browser launched
+[INFO ] 2023-08-22 17:49:23.212 - By.xpath: //*[@id="j_username"] Element is present
+[INFO ] 2023-08-22 17:49:23.212 - Searching for ElementBy.xpath: //*[@id="j_username"]
+[INFO ] 2023-08-22 17:49:23.281 - By.xpath: //*[@id="j_username"]for Element root entered
+[INFO ] 2023-08-22 17:49:23.281 - Username Entered
+[INFO ] 2023-08-22 17:49:23.334 - By.xpath: //*[@name="j_password"] Element is present
+[INFO ] 2023-08-22 17:49:23.334 - Searching for ElementBy.xpath: //*[@name="j_password"]
+[INFO ] 2023-08-22 17:49:23.448 - By.xpath: //*[@name="j_password"]for Element t entered
+[INFO ] 2023-08-22 17:49:23.448 - Username Entered
+[INFO ] 2023-08-22 17:49:23.505 - By.xpath: //*[@id="loginBtn"] Element is present
+[INFO ] 2023-08-22 17:49:23.505 - Searching for ElementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-08-22 17:49:23.708 - clicked on elementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-08-22 17:49:23.708 - Clicked on Login
+[INFO ] 2023-08-22 17:49:26.802 - By.id: _jsx_0_10 Element is present
+[INFO ] 2023-08-22 17:49:26.802 - Searching for ElementBy.id: _jsx_0_10
+[INFO ] 2023-08-22 17:49:26.931 - clicked on elementBy.id: _jsx_0_10
+[INFO ] 2023-08-22 17:49:27.000 - By.id: _jsx_0_11_tibco.admin.environment Element is present
+[INFO ] 2023-08-22 17:49:27.000 - Searching for ElementBy.id: _jsx_0_11_tibco.admin.environment
+[INFO ] 2023-08-22 17:49:27.343 - clicked on elementBy.id: _jsx_0_11_tibco.admin.environment
+[INFO ] 2023-08-22 17:49:27.415 - By.xpath: //*[@title="Create new environment"] Element is present
+[INFO ] 2023-08-22 17:49:27.415 - Searching for ElementBy.xpath: //*[@title="Create new environment"]
+[INFO ] 2023-08-22 17:49:27.518 - clicked on elementBy.xpath: //*[@title="Create new environment"]
+[INFO ] 2023-08-22 17:49:27.799 - By.xpath: /html/body/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div/div[1]/div[2]/div/span/div/div[3]/span/div[7]/span/div/div[2]/span/span[1]/div/div/div[6]/input Element is present
+[INFO ] 2023-08-22 17:49:27.800 - Searching for ElementBy.xpath: /html/body/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div/div[1]/div[2]/div/span/div/div[3]/span/div[7]/span/div/div[2]/span/span[1]/div/div/div[6]/input
+[INFO ] 2023-08-22 17:49:27.938 - By.xpath: /html/body/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div/div[1]/div[2]/div/span/div/div[3]/span/div[7]/span/div/div[2]/span/span[1]/div/div/div[6]/inputfor Element hostSCCg5 entered
+[INFO ] 2023-08-22 17:49:28.006 - By.xpath: /html/body/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div/div[1]/div[2]/div/span/div/div[3]/span/div[7]/span/div/div[2]/span/span[2]/div/div/div[6]/textarea Element is present
+[INFO ] 2023-08-22 17:49:28.006 - Searching for ElementBy.xpath: /html/body/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div/div[1]/div[2]/div/span/div/div[3]/span/div[7]/span/div/div[2]/span/span[2]/div/div/div[6]/textarea
+[INFO ] 2023-08-22 17:49:28.204 - By.xpath: /html/body/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div/div[1]/div[2]/div/span/div/div[3]/span/div[7]/span/div/div[2]/span/span[2]/div/div/div[6]/textareafor Element Created By Automation entered
+[INFO ] 2023-08-22 17:49:28.284 - By.xpath: //*[@label="nextBtn"] Element is present
+[INFO ] 2023-08-22 17:49:28.284 - Searching for ElementBy.xpath: //*[@label="nextBtn"]
+[INFO ] 2023-08-22 17:49:28.405 - clicked on elementBy.xpath: //*[@label="nextBtn"]
+[INFO ] 2023-08-22 17:49:31.470 - By.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/input Element is present
+[INFO ] 2023-08-22 17:49:31.470 - Searching for ElementBy.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/input
+[INFO ] 2023-08-22 17:49:31.545 - By.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/inputfor Element cleared text
+[INFO ] 2023-08-22 17:49:31.595 - By.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/input Element is present
+[INFO ] 2023-08-22 17:49:31.596 - Searching for ElementBy.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/input
+[INFO ] 2023-08-22 17:49:31.726 - clicked on elementBy.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/input
+[INFO ] 2023-08-22 17:49:31.794 - By.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/input Element is present
+[INFO ] 2023-08-22 17:49:31.794 - Searching for ElementBy.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/input
+[INFO ] 2023-08-22 17:49:31.933 - By.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.emsServerURL"]/div[6]/inputfor Element tcp://localhost:7222 entered
+[INFO ] 2023-08-22 17:49:35.028 - By.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.frUserName"]/div/div/div[6]/input Element is present
+[INFO ] 2023-08-22 17:49:35.028 - Searching for ElementBy.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.frUserName"]/div/div/div[6]/input
+[INFO ] 2023-08-22 17:49:35.172 - By.xpath: //*[@label="tibco.admin.envrionment.nw.messagingbus.frUserName"]/div/div/div[6]/inputfor Element admin entered
+[INFO ] 2023-08-22 17:49:35.228 - By.xpath: //*[@label="tibco.admin.common.messagingbus.testconnection_fld"]/div[6]/span/span Element is present
+[INFO ] 2023-08-22 17:49:35.228 - Searching for ElementBy.xpath: //*[@label="tibco.admin.common.messagingbus.testconnection_fld"]/div[6]/span/span
+[INFO ] 2023-08-22 17:49:35.375 - clicked on elementBy.xpath: //*[@label="tibco.admin.common.messagingbus.testconnection_fld"]/div[6]/span/span
+[INFO ] 2023-08-22 17:49:38.444 - By.xpath: //*[@label="dlgAlertDialog"]/div/div[2]/div/div/div Element is present
+[INFO ] 2023-08-22 17:49:38.444 - Searching for ElementBy.xpath: //*[@label="dlgAlertDialog"]/div/div[2]/div/div/div
+[INFO ] 2023-08-22 17:49:38.497 - By.xpath: //*[@label="dlgAlertDialog"]/div/div[2]/div/div/div has text TIBCO-AMX-ADMIN-020039: Successfully connected to 'tcp://localhost:7222' in non-SSL mode.
+[INFO ] 2023-08-22 17:49:38.559 - By.xpath: //*[@label="dlgAlertDialog"]/div/div[2]/div/div/div[2]/span Element is present
+[INFO ] 2023-08-22 17:49:38.559 - Searching for ElementBy.xpath: //*[@label="dlgAlertDialog"]/div/div[2]/div/div/div[2]/span
+[INFO ] 2023-08-22 17:49:38.673 - clicked on elementBy.xpath: //*[@label="dlgAlertDialog"]/div/div[2]/div/div/div[2]/span
+[INFO ] 2023-08-22 17:49:38.732 - By.xpath: //*[@label="buttonBar"]/span[3] Element is present
+[INFO ] 2023-08-22 17:49:38.732 - Searching for ElementBy.xpath: //*[@label="buttonBar"]/span[3]
+[INFO ] 2023-08-22 17:49:38.900 - clicked on elementBy.xpath: //*[@label="buttonBar"]/span[3]
+[INFO ] 2023-08-22 17:49:39.715 - Driver Closed
+[INFO ] 2023-08-22 17:49:39.715 - +++++++++++++++++++++++++SCENARIO END+++++++++++++++++++++++++
+[INFO ] 2023-08-22 17:49:41.513 - +++++++++++++++++++++++++SCENARIO STARTED+++++++++++++++++++++++++
+[INFO ] 2023-08-22 17:49:41.514 - +++++++++++++++++++++++++Verify Host Creation+++++++++++++++++++++++++
+[INFO ] 2023-08-22 17:49:41.514 - Driver initied
+[INFO ] 2023-08-22 17:49:46.700 - Web Browser launched
+[INFO ] 2023-08-22 17:49:46.764 - By.xpath: //*[@id="j_username"] Element is present
+[INFO ] 2023-08-22 17:49:46.765 - Searching for ElementBy.xpath: //*[@id="j_username"]
+[INFO ] 2023-08-22 17:49:46.825 - By.xpath: //*[@id="j_username"]for Element root entered
+[INFO ] 2023-08-22 17:49:46.825 - Username Entered
+[INFO ] 2023-08-22 17:49:46.882 - By.xpath: //*[@name="j_password"] Element is present
+[INFO ] 2023-08-22 17:49:46.882 - Searching for ElementBy.xpath: //*[@name="j_password"]
+[INFO ] 2023-08-22 17:49:46.981 - By.xpath: //*[@name="j_password"]for Element t entered
+[INFO ] 2023-08-22 17:49:46.982 - Username Entered
+[INFO ] 2023-08-22 17:49:47.035 - By.xpath: //*[@id="loginBtn"] Element is present
+[INFO ] 2023-08-22 17:49:47.036 - Searching for ElementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-08-22 17:49:47.205 - clicked on elementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-08-22 17:49:47.205 - Clicked on Login
+[INFO ] 2023-08-22 17:49:50.294 - By.id: _jsx_0_10 Element is present
+[INFO ] 2023-08-22 17:49:50.295 - Searching for ElementBy.id: _jsx_0_10
+[INFO ] 2023-08-22 17:49:50.415 - clicked on elementBy.id: _jsx_0_10
+[INFO ] 2023-08-22 17:49:50.475 - By.xpath: //*[@jsxid='tibco.admin.host'] Element is present
+[INFO ] 2023-08-22 17:49:50.475 - Searching for ElementBy.xpath: //*[@jsxid='tibco.admin.host']
+[INFO ] 2023-08-22 17:49:50.822 - clicked on elementBy.xpath: //*[@jsxid='tibco.admin.host']
+[INFO ] 2023-08-22 17:49:53.887 - By.xpath: //*[@id="_jsx_0_2v"] Element is present
+[INFO ] 2023-08-22 17:49:53.888 - Searching for ElementBy.xpath: //*[@id="_jsx_0_2v"]
+[INFO ] 2023-08-22 17:49:54.002 - clicked on elementBy.xpath: //*[@id="_jsx_0_2v"]
+[INFO ] 2023-08-22 17:49:54.659 - By.xpath: //*[@id='_jsx_0_4c']//div[6]/input Element is present
+[INFO ] 2023-08-22 17:49:54.659 - Searching for ElementBy.xpath: //*[@id='_jsx_0_4c']//div[6]/input
+[INFO ] 2023-08-22 17:49:54.811 - By.xpath: //*[@id='_jsx_0_4c']//div[6]/inputfor Element host8l7JT entered
+[INFO ] 2023-08-22 17:49:54.876 - By.xpath: //*[@id='_jsx_0_4h']//div[6]/input Element is present
+[INFO ] 2023-08-22 17:49:54.876 - Searching for ElementBy.xpath: //*[@id='_jsx_0_4h']//div[6]/input
+[INFO ] 2023-08-22 17:49:54.975 - By.xpath: //*[@id='_jsx_0_4h']//div[6]/inputfor Element cleared text
+[INFO ] 2023-08-22 17:49:55.031 - By.xpath: //*[@id='_jsx_0_4h']//div[6]/input Element is present
+[INFO ] 2023-08-22 17:49:55.031 - Searching for ElementBy.xpath: //*[@id='_jsx_0_4h']//div[6]/input
+[INFO ] 2023-08-22 17:49:55.213 - By.xpath: //*[@id='_jsx_0_4h']//div[6]/inputfor Element service:jmx:jmxmp://localhost:16787 entered
+[INFO ] 2023-08-22 17:50:00.304 - By.xpath: //*[@label='saveButton'] Element is present
+[INFO ] 2023-08-22 17:50:00.305 - Searching for ElementBy.xpath: //*[@label='saveButton']
+[INFO ] 2023-08-22 17:50:00.481 - clicked on elementBy.xpath: //*[@label='saveButton']
+[INFO ] 2023-08-22 17:50:02.527 - Searching element with Text host8l7JT
+[INFO ] 2023-08-22 17:50:05.624 - By.xpath: //*[@label='tibco.admin.host.ActionMenuButton.install'] Element is present
+[INFO ] 2023-08-22 17:50:05.624 - Searching for ElementBy.xpath: //*[@label='tibco.admin.host.ActionMenuButton.install']
+[INFO ] 2023-08-22 17:50:05.733 - clicked on elementBy.xpath: //*[@label='tibco.admin.host.ActionMenuButton.install']
+[INFO ] 2023-08-22 17:50:07.185 - Driver Closed
+[INFO ] 2023-08-22 17:50:07.186 - +++++++++++++++++++++++++SCENARIO END+++++++++++++++++++++++++
+[INFO ] 2023-08-22 18:27:12.199 - +++++++++++++++++++++++++SCENARIO STARTED+++++++++++++++++++++++++
+[INFO ] 2023-08-22 18:27:12.212 - +++++++++++++++++++++++++Verify Host Creation+++++++++++++++++++++++++
+[INFO ] 2023-08-22 18:27:12.212 - Driver initied
+[INFO ] 2023-08-22 18:27:17.576 - Web Browser launched
+[INFO ] 2023-08-22 18:27:17.661 - By.xpath: //*[@id="j_username"] Element is present
+[INFO ] 2023-08-22 18:27:17.661 - Searching for ElementBy.xpath: //*[@id="j_username"]
+[INFO ] 2023-08-22 18:27:17.746 - By.xpath: //*[@id="j_username"]for Element root entered
+[INFO ] 2023-08-22 18:27:17.746 - Username Entered
+[INFO ] 2023-08-22 18:27:17.796 - By.xpath: //*[@name="j_password"] Element is present
+[INFO ] 2023-08-22 18:27:17.797 - Searching for ElementBy.xpath: //*[@name="j_password"]
+[INFO ] 2023-08-22 18:27:17.889 - By.xpath: //*[@name="j_password"]for Element t entered
+[INFO ] 2023-08-22 18:27:17.889 - Username Entered
+[INFO ] 2023-08-22 18:27:17.950 - By.xpath: //*[@id="loginBtn"] Element is present
+[INFO ] 2023-08-22 18:27:17.950 - Searching for ElementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-08-22 18:27:18.165 - clicked on elementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-08-22 18:27:18.165 - Clicked on Login
+[INFO ] 2023-08-22 18:27:21.230 - By.id: _jsx_0_10 Element is present
+[INFO ] 2023-08-22 18:27:21.230 - Searching for ElementBy.id: _jsx_0_10
+[INFO ] 2023-08-22 18:27:21.293 - clicked on elementBy.id: _jsx_0_10
+[INFO ] 2023-08-22 18:27:21.337 - By.xpath: //*[@jsxid='tibco.admin.host'] Element is present
+[INFO ] 2023-08-22 18:27:21.337 - Searching for ElementBy.xpath: //*[@jsxid='tibco.admin.host']
+[INFO ] 2023-08-22 18:27:21.538 - clicked on elementBy.xpath: //*[@jsxid='tibco.admin.host']
+[INFO ] 2023-08-22 18:27:24.600 - By.xpath: //*[@id="_jsx_0_2v"] Element is present
+[INFO ] 2023-08-22 18:27:24.600 - Searching for ElementBy.xpath: //*[@id="_jsx_0_2v"]
+[INFO ] 2023-08-22 18:27:24.704 - clicked on elementBy.xpath: //*[@id="_jsx_0_2v"]
+[INFO ] 2023-08-22 18:27:25.361 - By.xpath: //*[@id='_jsx_0_4c']//div[6]/input Element is present
+[INFO ] 2023-08-22 18:27:25.361 - Searching for ElementBy.xpath: //*[@id='_jsx_0_4c']//div[6]/input
+[INFO ] 2023-08-22 18:27:25.508 - By.xpath: //*[@id='_jsx_0_4c']//div[6]/inputfor Element hostJNgGn entered
+[INFO ] 2023-08-22 18:27:25.571 - By.xpath: //*[@id='_jsx_0_4h']//div[6]/input Element is present
+[INFO ] 2023-08-22 18:27:25.571 - Searching for ElementBy.xpath: //*[@id='_jsx_0_4h']//div[6]/input
+[INFO ] 2023-08-22 18:27:25.660 - By.xpath: //*[@id='_jsx_0_4h']//div[6]/inputfor Element cleared text
+[INFO ] 2023-08-22 18:27:25.717 - By.xpath: //*[@id='_jsx_0_4h']//div[6]/input Element is present
+[INFO ] 2023-08-22 18:27:25.718 - Searching for ElementBy.xpath: //*[@id='_jsx_0_4h']//div[6]/input
+[INFO ] 2023-08-22 18:27:25.872 - By.xpath: //*[@id='_jsx_0_4h']//div[6]/inputfor Element service:jmx:jmxmp://localhost:16611 entered
+[INFO ] 2023-08-22 18:27:30.932 - By.xpath: //*[@label='saveButton'] Element is present
+[INFO ] 2023-08-22 18:27:30.933 - Searching for ElementBy.xpath: //*[@label='saveButton']
+[INFO ] 2023-08-22 18:27:31.032 - clicked on elementBy.xpath: //*[@label='saveButton']
+[INFO ] 2023-08-22 18:27:33.075 - Searching element with Text hostJNgGn
+[INFO ] 2023-08-22 18:27:36.147 - By.xpath: //*[@label='tibco.admin.host.ActionMenuButton.install'] Element is present
+[INFO ] 2023-08-22 18:27:36.147 - Searching for ElementBy.xpath: //*[@label='tibco.admin.host.ActionMenuButton.install']
+[INFO ] 2023-08-22 18:27:36.215 - clicked on elementBy.xpath: //*[@label='tibco.admin.host.ActionMenuButton.install']
+[INFO ] 2023-08-22 18:27:38.125 - Driver Closed
+[INFO ] 2023-08-22 18:27:38.125 - +++++++++++++++++++++++++SCENARIO END+++++++++++++++++++++++++
+[INFO ] 2023-08-22 18:35:43.824 - +++++++++++++++++++++++++SCENARIO STARTED+++++++++++++++++++++++++
+[INFO ] 2023-08-22 18:35:43.832 - +++++++++++++++++++++++++Verify Host Creation+++++++++++++++++++++++++
+[INFO ] 2023-08-22 18:35:43.832 - Driver initied
+[INFO ] 2023-08-22 18:35:49.085 - Web Browser launched
+[INFO ] 2023-08-22 18:35:49.157 - By.xpath: //*[@id="j_username"] Element is present
+[INFO ] 2023-08-22 18:35:49.157 - Searching for ElementBy.xpath: //*[@id="j_username"]
+[INFO ] 2023-08-22 18:35:49.214 - By.xpath: //*[@id="j_username"]for Element root entered
+[INFO ] 2023-08-22 18:35:49.214 - Username Entered
+[INFO ] 2023-08-22 18:35:49.293 - By.xpath: //*[@name="j_password"] Element is present
+[INFO ] 2023-08-22 18:35:49.293 - Searching for ElementBy.xpath: //*[@name="j_password"]
+[INFO ] 2023-08-22 18:35:49.372 - By.xpath: //*[@name="j_password"]for Element t entered
+[INFO ] 2023-08-22 18:35:49.372 - Username Entered
+[INFO ] 2023-08-22 18:35:49.430 - By.xpath: //*[@id="loginBtn"] Element is present
+[INFO ] 2023-08-22 18:35:49.430 - Searching for ElementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-08-22 18:35:49.617 - clicked on elementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-08-22 18:35:49.617 - Clicked on Login
+[INFO ] 2023-08-22 18:35:52.685 - By.id: _jsx_0_10 Element is present
+[INFO ] 2023-08-22 18:35:52.685 - Searching for ElementBy.id: _jsx_0_10
+[INFO ] 2023-08-22 18:35:52.792 - clicked on elementBy.id: _jsx_0_10
+[INFO ] 2023-08-22 18:35:52.855 - By.xpath: //*[@jsxid='tibco.admin.host'] Element is present
+[INFO ] 2023-08-22 18:35:52.855 - Searching for ElementBy.xpath: //*[@jsxid='tibco.admin.host']
+[INFO ] 2023-08-22 18:35:53.062 - clicked on elementBy.xpath: //*[@jsxid='tibco.admin.host']
+[INFO ] 2023-08-22 18:35:56.123 - By.xpath: //*[@id="_jsx_0_2v"] Element is present
+[INFO ] 2023-08-22 18:35:56.123 - Searching for ElementBy.xpath: //*[@id="_jsx_0_2v"]
+[INFO ] 2023-08-22 18:35:56.198 - clicked on elementBy.xpath: //*[@id="_jsx_0_2v"]
+[INFO ] 2023-08-22 18:35:56.946 - By.xpath: //*[@id='_jsx_0_4c']//div[6]/input Element is present
+[INFO ] 2023-08-22 18:35:56.947 - Searching for ElementBy.xpath: //*[@id='_jsx_0_4c']//div[6]/input
+[INFO ] 2023-08-22 18:35:57.092 - By.xpath: //*[@id='_jsx_0_4c']//div[6]/inputfor Element hostIYOwm entered
+[INFO ] 2023-08-22 18:35:57.139 - By.xpath: //*[@id='_jsx_0_4h']//div[6]/input Element is present
+[INFO ] 2023-08-22 18:35:57.139 - Searching for ElementBy.xpath: //*[@id='_jsx_0_4h']//div[6]/input
+[INFO ] 2023-08-22 18:35:57.236 - By.xpath: //*[@id='_jsx_0_4h']//div[6]/inputfor Element cleared text
+[INFO ] 2023-08-22 18:35:57.330 - By.xpath: //*[@id='_jsx_0_4h']//div[6]/input Element is present
+[INFO ] 2023-08-22 18:35:57.330 - Searching for ElementBy.xpath: //*[@id='_jsx_0_4h']//div[6]/input
+[INFO ] 2023-08-22 18:35:57.570 - By.xpath: //*[@id='_jsx_0_4h']//div[6]/inputfor Element service:jmx:jmxmp://localhost:16694 entered
+[INFO ] 2023-08-22 18:36:02.627 - By.xpath: //*[@label='saveButton'] Element is present
+[INFO ] 2023-08-22 18:36:02.628 - Searching for ElementBy.xpath: //*[@label='saveButton']
+[INFO ] 2023-08-22 18:36:02.732 - clicked on elementBy.xpath: //*[@label='saveButton']
+[INFO ] 2023-08-22 18:36:04.790 - Searching element with Text hostIYOwm
+[INFO ] 2023-08-22 18:36:07.849 - By.xpath: //*[@label='tibco.admin.host.ActionMenuButton.install'] Element is present
+[INFO ] 2023-08-22 18:36:07.849 - Searching for ElementBy.xpath: //*[@label='tibco.admin.host.ActionMenuButton.install']
+[INFO ] 2023-08-22 18:36:07.926 - clicked on elementBy.xpath: //*[@label='tibco.admin.host.ActionMenuButton.install']
+[INFO ] 2023-08-22 18:36:09.461 - Driver Closed
+[INFO ] 2023-08-22 18:36:09.474 - +++++++++++++++++++++++++SCENARIO END+++++++++++++++++++++++++
+[INFO ] 2023-08-22 18:38:31.221 - +++++++++++++++++++++++++SCENARIO STARTED+++++++++++++++++++++++++
+[INFO ] 2023-08-22 18:38:31.268 - +++++++++++++++++++++++++Verify Host Creation+++++++++++++++++++++++++
+[INFO ] 2023-08-22 18:38:31.268 - Driver initied
+[INFO ] 2023-08-22 18:38:36.938 - Web Browser launched
+[INFO ] 2023-08-22 18:38:37.093 - By.xpath: //*[@id="j_username"] Element is present
+[INFO ] 2023-08-22 18:38:37.093 - Searching for ElementBy.xpath: //*[@id="j_username"]
+[INFO ] 2023-08-22 18:38:37.246 - By.xpath: //*[@id="j_username"]for Element root entered
+[INFO ] 2023-08-22 18:38:37.246 - Username Entered
+[INFO ] 2023-08-22 18:38:37.323 - By.xpath: //*[@name="j_password"] Element is present
+[INFO ] 2023-08-22 18:38:37.324 - Searching for ElementBy.xpath: //*[@name="j_password"]
+[INFO ] 2023-08-22 18:38:37.445 - By.xpath: //*[@name="j_password"]for Element t entered
+[INFO ] 2023-08-22 18:38:37.445 - Username Entered
+[INFO ] 2023-08-22 18:38:37.543 - By.xpath: //*[@id="loginBtn"] Element is present
+[INFO ] 2023-08-22 18:38:37.543 - Searching for ElementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-08-22 18:38:38.274 - clicked on elementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-08-22 18:38:38.274 - Clicked on Login
+[INFO ] 2023-08-22 18:38:41.430 - By.id: _jsx_0_10 Element is present
+[INFO ] 2023-08-22 18:38:41.430 - Searching for ElementBy.id: _jsx_0_10
+[INFO ] 2023-08-22 18:38:41.767 - clicked on elementBy.id: _jsx_0_10
+[INFO ] 2023-08-22 18:40:54.570 - +++++++++++++++++++++++++SCENARIO STARTED+++++++++++++++++++++++++
+[INFO ] 2023-08-22 18:40:54.579 - +++++++++++++++++++++++++Verify Host Creation+++++++++++++++++++++++++
+[INFO ] 2023-08-22 18:40:54.579 - Driver initied
+[INFO ] 2023-08-22 18:40:59.889 - Web Browser launched
+[INFO ] 2023-08-22 18:40:59.960 - By.xpath: //*[@id="j_username"] Element is present
+[INFO ] 2023-08-22 18:40:59.961 - Searching for ElementBy.xpath: //*[@id="j_username"]
+[INFO ] 2023-08-22 18:41:00.039 - By.xpath: //*[@id="j_username"]for Element root entered
+[INFO ] 2023-08-22 18:41:00.039 - Username Entered
+[INFO ] 2023-08-22 18:41:00.117 - By.xpath: //*[@name="j_password"] Element is present
+[INFO ] 2023-08-22 18:41:00.117 - Searching for ElementBy.xpath: //*[@name="j_password"]
+[INFO ] 2023-08-22 18:41:00.202 - By.xpath: //*[@name="j_password"]for Element t entered
+[INFO ] 2023-08-22 18:41:00.203 - Username Entered
+[INFO ] 2023-08-22 18:41:00.251 - By.xpath: //*[@id="loginBtn"] Element is present
+[INFO ] 2023-08-22 18:41:00.251 - Searching for ElementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-08-22 18:41:00.422 - clicked on elementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2023-08-22 18:41:00.423 - Clicked on Login
+[INFO ] 2023-08-22 18:41:03.510 - By.id: _jsx_0_10 Element is present
+[INFO ] 2023-08-22 18:41:03.510 - Searching for ElementBy.id: _jsx_0_10
+[INFO ] 2023-08-22 18:41:03.570 - clicked on elementBy.id: _jsx_0_10
+[INFO ] 2023-08-22 18:41:03.634 - By.xpath: //*[@jsxid='tibco.admin.host'] Element is present
+[INFO ] 2023-08-22 18:41:03.634 - Searching for ElementBy.xpath: //*[@jsxid='tibco.admin.host']
+[INFO ] 2023-08-22 18:41:03.829 - clicked on elementBy.xpath: //*[@jsxid='tibco.admin.host']
+[INFO ] 2023-08-22 18:41:06.898 - By.xpath: //*[@id="_jsx_0_2v"] Element is present
+[INFO ] 2023-08-22 18:41:06.899 - Searching for ElementBy.xpath: //*[@id="_jsx_0_2v"]
+[INFO ] 2023-08-22 18:41:07.002 - clicked on elementBy.xpath: //*[@id="_jsx_0_2v"]
+[INFO ] 2023-08-22 18:41:07.526 - By.xpath: //*[@id='_jsx_0_4c']//div[6]/input Element is present
+[INFO ] 2023-08-22 18:41:07.527 - Searching for ElementBy.xpath: //*[@id='_jsx_0_4c']//div[6]/input
+[INFO ] 2023-08-22 18:41:07.661 - By.xpath: //*[@id='_jsx_0_4c']//div[6]/inputfor Element hostNsp0O entered
+[INFO ] 2023-08-22 18:41:07.713 - By.xpath: //*[@id='_jsx_0_4h']//div[6]/input Element is present
+[INFO ] 2023-08-22 18:41:07.713 - Searching for ElementBy.xpath: //*[@id='_jsx_0_4h']//div[6]/input
+[INFO ] 2023-08-22 18:41:07.882 - By.xpath: //*[@id='_jsx_0_4h']//div[6]/inputfor Element cleared text
+[INFO ] 2023-08-22 18:41:07.941 - By.xpath: //*[@id='_jsx_0_4h']//div[6]/input Element is present
+[INFO ] 2023-08-22 18:41:07.942 - Searching for ElementBy.xpath: //*[@id='_jsx_0_4h']//div[6]/input
+[INFO ] 2023-08-22 18:41:08.112 - By.xpath: //*[@id='_jsx_0_4h']//div[6]/inputfor Element service:jmx:jmxmp://localhost:16786 entered
+[INFO ] 2023-08-22 18:41:13.182 - By.xpath: //*[@label='saveButton'] Element is present
+[INFO ] 2023-08-22 18:41:13.182 - Searching for ElementBy.xpath: //*[@label='saveButton']
+[INFO ] 2023-08-22 18:41:13.270 - clicked on elementBy.xpath: //*[@label='saveButton']
+[INFO ] 2023-08-22 18:41:15.305 - Searching element with Text hostNsp0O
+[INFO ] 2023-08-22 18:41:18.384 - By.xpath: //*[@label='tibco.admin.host.ActionMenuButton.install'] Element is present
+[INFO ] 2023-08-22 18:41:18.384 - Searching for ElementBy.xpath: //*[@label='tibco.admin.host.ActionMenuButton.install']
+[INFO ] 2023-08-22 18:41:18.470 - clicked on elementBy.xpath: //*[@label='tibco.admin.host.ActionMenuButton.install']
+[INFO ] 2023-08-22 18:41:20.392 - Driver Closed
+[INFO ] 2023-08-22 18:41:20.392 - +++++++++++++++++++++++++SCENARIO END+++++++++++++++++++++++++
+[INFO ] 2024-03-06 12:06:51.011 - +++++++++++++++++++++++++SCENARIO STARTED+++++++++++++++++++++++++
+[INFO ] 2024-03-06 12:06:51.023 - +++++++++++++++++++++++++Verify Host Creation+++++++++++++++++++++++++
+[INFO ] 2024-03-06 12:06:51.023 - Driver initied
+[INFO ] 2024-03-06 12:06:56.231 - Web Browser launched
+[INFO ] 2024-03-06 12:06:56.348 - By.xpath: //*[@id="j_username"] Element is present
+[INFO ] 2024-03-06 12:06:56.348 - Searching for ElementBy.xpath: //*[@id="j_username"]
+[INFO ] 2024-03-06 12:06:56.407 - By.xpath: //*[@id="j_username"]for Element root entered
+[INFO ] 2024-03-06 12:06:56.407 - Username Entered
+[INFO ] 2024-03-06 12:06:56.477 - By.xpath: //*[@name="j_password"] Element is present
+[INFO ] 2024-03-06 12:06:56.478 - Searching for ElementBy.xpath: //*[@name="j_password"]
+[INFO ] 2024-03-06 12:06:56.518 - By.xpath: //*[@name="j_password"]for Element t entered
+[INFO ] 2024-03-06 12:06:56.518 - Username Entered
+[INFO ] 2024-03-06 12:06:56.602 - By.xpath: //*[@id="loginBtn"] Element is present
+[INFO ] 2024-03-06 12:06:56.602 - Searching for ElementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2024-03-06 12:06:57.718 - clicked on elementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2024-03-06 12:06:57.718 - Clicked on Login
+[INFO ] 2024-03-06 12:07:14.109 - By.id: _jsx_0_10 Element is present
+[INFO ] 2024-03-06 12:07:14.110 - Searching for ElementBy.id: _jsx_0_10
+[INFO ] 2024-03-06 12:07:16.550 - Driver Closed
+[INFO ] 2024-03-06 12:07:16.551 - +++++++++++++++++++++++++SCENARIO END+++++++++++++++++++++++++
+[INFO ] 2024-03-06 13:17:06.386 - +++++++++++++++++++++++++SCENARIO STARTED+++++++++++++++++++++++++
+[INFO ] 2024-03-06 13:17:06.405 - +++++++++++++++++++++++++Verify Logo and login Page+++++++++++++++++++++++++
+[INFO ] 2024-03-06 13:17:06.405 - Driver initied
+[INFO ] 2024-03-06 13:17:11.667 - Web Browser launched
+[INFO ] 2024-03-06 13:17:11.681 - Verified title
+[INFO ] 2024-03-06 13:17:11.692 - Page Title Verified
+[INFO ] 2024-03-06 13:17:11.697 - Verified Logo
+[INFO ] 2024-03-06 13:17:11.831 - By.xpath: //img Element is present
+[INFO ] 2024-03-06 13:17:11.831 - Loginpage Logo Verified
+[INFO ] 2024-03-06 13:17:11.899 - By.xpath: //*[@id="j_username"] Element is present
+[INFO ] 2024-03-06 13:17:11.900 - Searching for ElementBy.xpath: //*[@id="j_username"]
+[INFO ] 2024-03-06 13:17:11.997 - By.xpath: //*[@id="j_username"]for Element root entered
+[INFO ] 2024-03-06 13:17:11.997 - Username Entered
+[INFO ] 2024-03-06 13:17:12.062 - By.xpath: //*[@name="j_password"] Element is present
+[INFO ] 2024-03-06 13:17:12.062 - Searching for ElementBy.xpath: //*[@name="j_password"]
+[INFO ] 2024-03-06 13:17:12.106 - By.xpath: //*[@name="j_password"]for Element t entered
+[INFO ] 2024-03-06 13:17:12.106 - Username Entered
+[INFO ] 2024-03-06 13:17:12.107 - Password entered
+[INFO ] 2024-03-06 13:17:12.203 - By.xpath: //*[@id="loginBtn"] Element is present
+[INFO ] 2024-03-06 13:17:12.203 - Searching for ElementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2024-03-06 13:17:13.242 - clicked on elementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2024-03-06 13:17:13.243 - Clicked on Login
+[INFO ] 2024-03-06 13:17:13.244 - login Button Clicked
+[INFO ] 2024-03-06 13:17:13.279 - Searching element with Text hostIzh4V
+[INFO ] 2024-03-06 13:17:49.168 - Driver Closed
+[INFO ] 2024-03-06 13:17:49.168 - +++++++++++++++++++++++++SCENARIO END+++++++++++++++++++++++++
+[INFO ] 2024-03-06 14:06:07.893 - +++++++++++++++++++++++++SCENARIO STARTED+++++++++++++++++++++++++
+[INFO ] 2024-03-06 14:06:07.906 - +++++++++++++++++++++++++Verify Logo and login Page+++++++++++++++++++++++++
+[INFO ] 2024-03-06 14:06:07.907 - Driver initied
+[INFO ] 2024-03-06 14:06:13.149 - Web Browser launched
+[INFO ] 2024-03-06 14:06:13.154 - Verified title
+[INFO ] 2024-03-06 14:06:13.159 - Page Title Verified
+[INFO ] 2024-03-06 14:06:13.161 - Verified Logo
+[INFO ] 2024-03-06 14:06:13.246 - By.xpath: //img Element is present
+[INFO ] 2024-03-06 14:06:13.246 - Loginpage Logo Verified
+[INFO ] 2024-03-06 14:06:13.328 - By.xpath: //*[@id="j_username"] Element is present
+[INFO ] 2024-03-06 14:06:13.328 - Searching for ElementBy.xpath: //*[@id="j_username"]
+[INFO ] 2024-03-06 14:06:13.388 - By.xpath: //*[@id="j_username"]for Element root entered
+[INFO ] 2024-03-06 14:06:13.388 - Username Entered
+[INFO ] 2024-03-06 14:06:13.451 - By.xpath: //*[@name="j_password"] Element is present
+[INFO ] 2024-03-06 14:06:13.451 - Searching for ElementBy.xpath: //*[@name="j_password"]
+[INFO ] 2024-03-06 14:06:13.497 - By.xpath: //*[@name="j_password"]for Element t entered
+[INFO ] 2024-03-06 14:06:13.497 - Username Entered
+[INFO ] 2024-03-06 14:06:13.497 - Password entered
+[INFO ] 2024-03-06 14:06:13.559 - By.xpath: //*[@id="loginBtn"] Element is present
+[INFO ] 2024-03-06 14:06:13.559 - Searching for ElementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2024-03-06 14:06:13.791 - clicked on elementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2024-03-06 14:06:13.792 - Clicked on Login
+[INFO ] 2024-03-06 14:06:13.792 - login Button Clicked
+[INFO ] 2024-03-06 14:06:13.813 - Searching element with Text hostsmYjP
+[INFO ] 2024-03-06 14:06:49.345 - Driver Closed
+[INFO ] 2024-03-06 14:06:49.345 - +++++++++++++++++++++++++SCENARIO END+++++++++++++++++++++++++
+[INFO ] 2024-03-06 14:08:20.391 - +++++++++++++++++++++++++SCENARIO STARTED+++++++++++++++++++++++++
+[INFO ] 2024-03-06 14:08:20.404 - +++++++++++++++++++++++++Verify Logo and login Page+++++++++++++++++++++++++
+[INFO ] 2024-03-06 14:08:20.405 - Driver initied
+[INFO ] 2024-03-06 14:08:25.657 - Web Browser launched
+[INFO ] 2024-03-06 14:08:25.667 - Verified title
+[INFO ] 2024-03-06 14:08:25.676 - Page Title Verified
+[INFO ] 2024-03-06 14:08:25.678 - Verified Logo
+[INFO ] 2024-03-06 14:08:25.771 - By.xpath: //img Element is present
+[INFO ] 2024-03-06 14:08:25.771 - Loginpage Logo Verified
+[INFO ] 2024-03-06 14:08:25.833 - By.xpath: //*[@id="j_username"] Element is present
+[INFO ] 2024-03-06 14:08:25.833 - Searching for ElementBy.xpath: //*[@id="j_username"]
+[INFO ] 2024-03-06 14:08:25.894 - By.xpath: //*[@id="j_username"]for Element root entered
+[INFO ] 2024-03-06 14:08:25.895 - Username Entered
+[INFO ] 2024-03-06 14:08:25.972 - By.xpath: //*[@name="j_password"] Element is present
+[INFO ] 2024-03-06 14:08:25.972 - Searching for ElementBy.xpath: //*[@name="j_password"]
+[INFO ] 2024-03-06 14:08:26.010 - By.xpath: //*[@name="j_password"]for Element t entered
+[INFO ] 2024-03-06 14:08:26.010 - Username Entered
+[INFO ] 2024-03-06 14:08:26.010 - Password entered
+[INFO ] 2024-03-06 14:08:26.054 - By.xpath: //*[@id="loginBtn"] Element is present
+[INFO ] 2024-03-06 14:08:26.054 - Searching for ElementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2024-03-06 14:08:26.245 - clicked on elementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2024-03-06 14:08:26.245 - Clicked on Login
+[INFO ] 2024-03-06 14:08:26.245 - login Button Clicked
+[INFO ] 2024-03-06 14:08:28.161 - Driver Closed
+[INFO ] 2024-03-06 14:08:28.161 - +++++++++++++++++++++++++SCENARIO END+++++++++++++++++++++++++
+[INFO ] 2024-03-06 14:09:15.343 - +++++++++++++++++++++++++SCENARIO STARTED+++++++++++++++++++++++++
+[INFO ] 2024-03-06 14:09:15.357 - +++++++++++++++++++++++++Verify Logo and login Page+++++++++++++++++++++++++
+[INFO ] 2024-03-06 14:09:15.358 - Driver initied
+[INFO ] 2024-03-06 14:09:20.788 - Web Browser launched
+[INFO ] 2024-03-06 14:09:20.795 - Verified title
+[INFO ] 2024-03-06 14:09:20.806 - Page Title Verified
+[INFO ] 2024-03-06 14:09:20.808 - Verified Logo
+[INFO ] 2024-03-06 14:09:20.911 - By.xpath: //img Element is present
+[INFO ] 2024-03-06 14:09:20.911 - Loginpage Logo Verified
+[INFO ] 2024-03-06 14:09:20.950 - By.xpath: //*[@id="j_username"] Element is present
+[INFO ] 2024-03-06 14:09:20.950 - Searching for ElementBy.xpath: //*[@id="j_username"]
+[INFO ] 2024-03-06 14:09:21.024 - By.xpath: //*[@id="j_username"]for Element root entered
+[INFO ] 2024-03-06 14:09:21.025 - Username Entered
+[INFO ] 2024-03-06 14:09:21.080 - By.xpath: //*[@name="j_password"] Element is present
+[INFO ] 2024-03-06 14:09:21.080 - Searching for ElementBy.xpath: //*[@name="j_password"]
+[INFO ] 2024-03-06 14:09:21.124 - By.xpath: //*[@name="j_password"]for Element t entered
+[INFO ] 2024-03-06 14:09:21.125 - Username Entered
+[INFO ] 2024-03-06 14:09:21.125 - Password entered
+[INFO ] 2024-03-06 14:09:21.172 - By.xpath: //*[@id="loginBtn"] Element is present
+[INFO ] 2024-03-06 14:09:21.173 - Searching for ElementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2024-03-06 14:09:21.376 - clicked on elementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2024-03-06 14:09:21.376 - Clicked on Login
+[INFO ] 2024-03-06 14:09:21.376 - login Button Clicked
+[INFO ] 2024-03-06 14:09:23.724 - Driver Closed
+[INFO ] 2024-03-06 14:09:23.724 - +++++++++++++++++++++++++SCENARIO END+++++++++++++++++++++++++
+[INFO ] 2024-03-06 14:09:28.982 - +++++++++++++++++++++++++SCENARIO STARTED+++++++++++++++++++++++++
+[INFO ] 2024-03-06 14:09:28.983 - +++++++++++++++++++++++++Verify Admin Version+++++++++++++++++++++++++
+[INFO ] 2024-03-06 14:09:28.983 - Driver initied
+[INFO ] 2024-03-06 14:09:34.106 - Web Browser launched
+[INFO ] 2024-03-06 14:09:34.158 - By.xpath: //*[@id="j_username"] Element is present
+[INFO ] 2024-03-06 14:09:34.158 - Searching for ElementBy.xpath: //*[@id="j_username"]
+[INFO ] 2024-03-06 14:09:34.214 - By.xpath: //*[@id="j_username"]for Element root entered
+[INFO ] 2024-03-06 14:09:34.214 - Username Entered
+[INFO ] 2024-03-06 14:09:34.248 - By.xpath: //*[@name="j_password"] Element is present
+[INFO ] 2024-03-06 14:09:34.248 - Searching for ElementBy.xpath: //*[@name="j_password"]
+[INFO ] 2024-03-06 14:09:34.309 - By.xpath: //*[@name="j_password"]for Element t entered
+[INFO ] 2024-03-06 14:09:34.309 - Username Entered
+[INFO ] 2024-03-06 14:09:34.358 - By.xpath: //*[@id="loginBtn"] Element is present
+[INFO ] 2024-03-06 14:09:34.358 - Searching for ElementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2024-03-06 14:09:34.543 - clicked on elementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2024-03-06 14:09:34.543 - Clicked on Login
+[INFO ] 2024-03-06 14:10:10.876 - Driver Closed
+[INFO ] 2024-03-06 14:10:10.876 - +++++++++++++++++++++++++SCENARIO END+++++++++++++++++++++++++
+[INFO ] 2024-03-06 14:10:59.110 - +++++++++++++++++++++++++SCENARIO STARTED+++++++++++++++++++++++++
+[INFO ] 2024-03-06 14:10:59.123 - +++++++++++++++++++++++++Verify Logo and login Page+++++++++++++++++++++++++
+[INFO ] 2024-03-06 14:10:59.123 - Driver initied
+[INFO ] 2024-03-06 14:11:04.330 - Web Browser launched
+[INFO ] 2024-03-06 14:11:04.337 - Verified title
+[INFO ] 2024-03-06 14:11:04.341 - Page Title Verified
+[INFO ] 2024-03-06 14:11:04.343 - Verified Logo
+[INFO ] 2024-03-06 14:11:04.413 - By.xpath: //img Element is present
+[INFO ] 2024-03-06 14:11:04.413 - Loginpage Logo Verified
+[INFO ] 2024-03-06 14:11:04.460 - By.xpath: //*[@id="j_username"] Element is present
+[INFO ] 2024-03-06 14:11:04.461 - Searching for ElementBy.xpath: //*[@id="j_username"]
+[INFO ] 2024-03-06 14:11:04.520 - By.xpath: //*[@id="j_username"]for Element root entered
+[INFO ] 2024-03-06 14:11:04.521 - Username Entered
+[INFO ] 2024-03-06 14:11:04.575 - By.xpath: //*[@name="j_password"] Element is present
+[INFO ] 2024-03-06 14:11:04.575 - Searching for ElementBy.xpath: //*[@name="j_password"]
+[INFO ] 2024-03-06 14:11:04.624 - By.xpath: //*[@name="j_password"]for Element t entered
+[INFO ] 2024-03-06 14:11:04.625 - Username Entered
+[INFO ] 2024-03-06 14:11:04.625 - Password entered
+[INFO ] 2024-03-06 14:11:04.676 - By.xpath: //*[@id="loginBtn"] Element is present
+[INFO ] 2024-03-06 14:11:04.676 - Searching for ElementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2024-03-06 14:11:04.845 - clicked on elementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2024-03-06 14:11:04.845 - Clicked on Login
+[INFO ] 2024-03-06 14:11:04.845 - login Button Clicked
+[INFO ] 2024-03-06 14:11:06.503 - Driver Closed
+[INFO ] 2024-03-06 14:11:06.503 - +++++++++++++++++++++++++SCENARIO END+++++++++++++++++++++++++
+[INFO ] 2024-03-06 14:11:11.294 - +++++++++++++++++++++++++SCENARIO STARTED+++++++++++++++++++++++++
+[INFO ] 2024-03-06 14:11:11.294 - +++++++++++++++++++++++++Verify Admin Version+++++++++++++++++++++++++
+[INFO ] 2024-03-06 14:11:11.294 - Driver initied
+[INFO ] 2024-03-06 14:11:16.439 - Web Browser launched
+[INFO ] 2024-03-06 14:11:16.491 - By.xpath: //*[@id="j_username"] Element is present
+[INFO ] 2024-03-06 14:11:16.491 - Searching for ElementBy.xpath: //*[@id="j_username"]
+[INFO ] 2024-03-06 14:11:16.550 - By.xpath: //*[@id="j_username"]for Element root entered
+[INFO ] 2024-03-06 14:11:16.552 - Username Entered
+[INFO ] 2024-03-06 14:11:16.601 - By.xpath: //*[@name="j_password"] Element is present
+[INFO ] 2024-03-06 14:11:16.601 - Searching for ElementBy.xpath: //*[@name="j_password"]
+[INFO ] 2024-03-06 14:11:16.650 - By.xpath: //*[@name="j_password"]for Element t entered
+[INFO ] 2024-03-06 14:11:16.650 - Username Entered
+[INFO ] 2024-03-06 14:11:16.740 - By.xpath: //*[@id="loginBtn"] Element is present
+[INFO ] 2024-03-06 14:11:16.740 - Searching for ElementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2024-03-06 14:11:16.915 - clicked on elementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2024-03-06 14:11:16.915 - Clicked on Login
+[INFO ] 2024-03-06 14:11:52.449 - Driver Closed
+[INFO ] 2024-03-06 14:11:52.450 - +++++++++++++++++++++++++SCENARIO END+++++++++++++++++++++++++
+[INFO ] 2024-03-06 14:13:40.051 - +++++++++++++++++++++++++SCENARIO STARTED+++++++++++++++++++++++++
+[INFO ] 2024-03-06 14:13:40.103 - +++++++++++++++++++++++++Verify Admin Version+++++++++++++++++++++++++
+[INFO ] 2024-03-06 14:13:40.104 - Driver initied
+[INFO ] 2024-03-06 14:13:45.290 - Web Browser launched
+[INFO ] 2024-03-06 14:13:45.355 - By.xpath: //*[@id="j_username"] Element is present
+[INFO ] 2024-03-06 14:13:45.356 - Searching for ElementBy.xpath: //*[@id="j_username"]
+[INFO ] 2024-03-06 14:13:45.405 - By.xpath: //*[@id="j_username"]for Element root entered
+[INFO ] 2024-03-06 14:13:45.405 - Username Entered
+[INFO ] 2024-03-06 14:13:45.444 - By.xpath: //*[@name="j_password"] Element is present
+[INFO ] 2024-03-06 14:13:45.444 - Searching for ElementBy.xpath: //*[@name="j_password"]
+[INFO ] 2024-03-06 14:13:45.474 - By.xpath: //*[@name="j_password"]for Element t entered
+[INFO ] 2024-03-06 14:13:45.474 - Username Entered
+[INFO ] 2024-03-06 14:13:45.508 - By.xpath: //*[@id="loginBtn"] Element is present
+[INFO ] 2024-03-06 14:13:45.508 - Searching for ElementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2024-03-06 14:13:45.636 - clicked on elementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2024-03-06 14:13:45.637 - Clicked on Login
+[INFO ] 2024-03-06 14:14:09.784 - By.xpath: //span[@class='linkbutton'][2]/span Element is present
+[INFO ] 2024-03-06 14:14:09.784 - Searching for ElementBy.xpath: //span[@class='linkbutton'][2]/span
+[INFO ] 2024-03-06 14:14:10.064 - clicked on elementBy.xpath: //span[@class='linkbutton'][2]/span
+[INFO ] 2024-03-06 14:14:15.194 - Clicked on About
+[INFO ] 2024-03-06 14:14:15.283 - By.xpath: //div[@label='infoContainer']/div Element is present
+[INFO ] 2024-03-06 14:14:15.283 - Searching for ElementBy.xpath: //div[@label='infoContainer']/div
+[INFO ] 2024-03-06 14:14:15.303 - By.xpath: //div[@label='infoContainer']/div has text TIBCO ActiveMatrix® Administrator
+Version 3.4.2
+Copyright © 2024 TIBCO Software Inc.All Rights Reserved.
+[INFO ] 2024-03-06 14:14:15.304 - Verified Admin Version
+[INFO ] 2024-03-06 14:14:17.842 - Driver Closed
+[INFO ] 2024-03-06 14:14:17.842 - +++++++++++++++++++++++++SCENARIO END+++++++++++++++++++++++++
+[INFO ] 2024-03-06 14:14:48.164 - +++++++++++++++++++++++++SCENARIO STARTED+++++++++++++++++++++++++
+[INFO ] 2024-03-06 14:14:48.198 - +++++++++++++++++++++++++Verify Admin Version+++++++++++++++++++++++++
+[INFO ] 2024-03-06 14:14:48.199 - Driver initied
+[INFO ] 2024-03-06 14:14:53.432 - Web Browser launched
+[INFO ] 2024-03-06 14:14:53.512 - By.xpath: //*[@id="j_username"] Element is present
+[INFO ] 2024-03-06 14:14:53.512 - Searching for ElementBy.xpath: //*[@id="j_username"]
+[INFO ] 2024-03-06 14:14:53.584 - By.xpath: //*[@id="j_username"]for Element root entered
+[INFO ] 2024-03-06 14:14:53.584 - Username Entered
+[INFO ] 2024-03-06 14:14:53.637 - By.xpath: //*[@name="j_password"] Element is present
+[INFO ] 2024-03-06 14:14:53.638 - Searching for ElementBy.xpath: //*[@name="j_password"]
+[INFO ] 2024-03-06 14:14:53.680 - By.xpath: //*[@name="j_password"]for Element t entered
+[INFO ] 2024-03-06 14:14:53.680 - Username Entered
+[INFO ] 2024-03-06 14:14:53.714 - By.xpath: //*[@id="loginBtn"] Element is present
+[INFO ] 2024-03-06 14:14:53.714 - Searching for ElementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2024-03-06 14:14:53.851 - clicked on elementBy.xpath: //*[@id="loginBtn"]
+[INFO ] 2024-03-06 14:14:53.851 - Clicked on Login
